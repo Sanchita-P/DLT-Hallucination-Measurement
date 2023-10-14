@@ -1,3 +1,6 @@
 **/llama2_lora_lamni/**
 **/result/**
 **/output/**
+nohup.out
+test.ipynb
+.gitignore
