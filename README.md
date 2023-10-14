@@ -8,10 +8,10 @@ pip3 install accelerate==0.21.0 peft==0.4.0 bitsandbytes==0.40.2 transformers==4
 
 First train the model using the following command.
 ```shell
-python3 train.py
+python3 trainModel.py
 ```
 
-Then run and test the model.
+Then run the model.
 ```shell
-python3 test.py
+python3 runModel.py
 ```
