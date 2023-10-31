@@ -1,0 +1,24 @@
+head,type,tail
+perplexity,instance of,metrics
+BLEU score,instance of,metrics
+BLEU score,instance of,perplexity
+similarity,instance of,metrics
+relevance,instance of,metrics
+job status,facet of,job
+background jobs,subclass of,long-running tasks
+background jobs,subclass of,job status
+logical inference,subclass of,reasoning
+reasoning,has part,inference
+inference,part of,reasoning
+reasoning,has effect,decision-making
+Lamini,programming language,Python
+Lamini,instance of,library
+Lamini,use,library snippets
+data augmentation,subclass of,preprocessing
+training data,subclass of,preprocessing
+preprocessing,subclass of,training data
+Lamini,use,natural language generation
+Lamini,instance of,natural language generation
+LLM Engine,developer,Lamini
+LLM Engine,developer,Lamini’s
+Lamini,product or material produced,LLM Engine
