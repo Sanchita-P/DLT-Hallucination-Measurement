@@ -72,6 +72,7 @@ for i, text in enumerate(datasetText):
 
 import csv
 
+
 # Open CSV file for writing
 with open('train_ners.csv', 'w', newline='') as csvfile:
     csvwriter = csv.writer(csvfile)
