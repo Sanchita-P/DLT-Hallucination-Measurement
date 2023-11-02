@@ -1,0 +1,2434 @@
+head,type,tail
+perplexity,instance of,metrics
+BLEU score,instance of,metrics
+BLEU score,instance of,perplexity
+similarity,instance of,metrics
+relevance,instance of,metrics
+job status,facet of,job
+background jobs,subclass of,long-running tasks
+background jobs,subclass of,job status
+logical inference,subclass of,reasoning
+reasoning,has part,inference
+inference,part of,reasoning
+reasoning,has effect,decision-making
+Lamini,programming language,Python
+Lamini,instance of,library
+Lamini,use,library snippets
+data augmentation,subclass of,preprocessing
+training data,subclass of,preprocessing
+preprocessing,subclass of,training data
+Lamini,use,natural language generation
+Lamini,instance of,natural language generation
+LLM Engine,developer,Lamini
+LLM Engine,developer,Lamini’s
+Lamini,product or material produced,LLM Engine
+inference,facet of,machine learning
+inference,part of,machine learning
+inference,subclass of,machine learning
+API,used by,Lamini
+Lamini,instance of,API
+Lamini,uses,API
+Lamini,use,virtual assistant
+Lamini,use,chatbots
+virtual assistant,subclass of,chatbots
+poetry,subclass of,poetic language
+poetic language,instance of,style
+poetry,instance of,style
+DatasetBalancer,use,Lamini
+DatasetBalancer,part of,Lamini
+Lamini,use,DatasetBalancer
+hierarchical,subclass of,model architecture
+attention-based,subclass of,model architecture
+attention-based models,subclass of,hierarchical
+hierarchical,instance of,model architecture
+attention-based,instance of,model architecture
+Lamini documentation,facet of,Lamini
+Lamini documentation,use,Lamini
+Lamini,use,online learning
+Lamini,use,online learning setting
+Innovation and Creativity,facet of,innovation
+Innovation and Creativity,instance of,culture
+Collaboration and Teamwork,subclass of,teamwork
+continuous learning,facet of,AI
+open communication,subclass of,knowledge sharing
+continuous learning,subclass of,growth
+diversity,facet of,inclusion
+customer-centric,facet of,customer
+customer-centric culture,facet of,customer
+Victorian era,instance of,time period
+Renaissance,instance of,time period
+Victorian era,instance of,writing style
+Renaissance,instance of,writing style
+Databricks,instance of,library
+Lamini,part of,Databricks
+Lamini,product or material produced,prompt-engineered
+Lamini,field of work,prompt-engineered
+Lamini,instance of,prompt-engineered
+I am having trouble understanding,instance of,type
+St. Augustine,located in the administrative territorial entity,Florida
+Florida,contains administrative territorial entity,St. Augustine
+programming examples,facet of,programming language
+Lamini,instance of,programming language
+Lamini,use,programming examples
+Lamini,use,LLM Engine
+Lamini,use,AI
+Lamini,instance of,AI language model
+Lamini,instance of,AI language
+CC-BY,instance of,permissive
+LLM,developer,Lamini
+Apache 2.0,instance of,permissive
+LLM,instance of,language model
+LLM,subclass of,language model
+data preprocessing,use,data cleaning
+medical reports,subclass of,financial reports
+financial reports,facet of,financial industry
+financial report,facet of,financial industry
+Lamini,developer,LLM Engine
+Lamini,use,LLM Engine Lamini
+Lamini,part of,LLM Engine Lamini
+LLM Engine Lamini,has part,Lamini
+language model,subclass of,architecture
+language models,subclass of,architecture
+Language model,subclass of,architecture
+overfitting,subclass of,biases
+overfitting,facet of,Gradient Learning
+overfitting,has effect,bias
+TPU,subclass of,GPUs
+Privacy,facet of,ethical considerations
+Computational resources and time,facet of,computational resources
+Lamini,use,API
+Lamini,use,REST API
+GPT-3,developer,OpenAI
+BERT,developer,Google
+Lamini,use,information extraction
+Lamini,use,Lamini
+Lamini,use,LLM
+Lamini,use,LLMs
+Lamini,use,email
+Lamini,instance of,free
+Lamini,instance of,free tool
+RateLimitError,subclass of,exception
+RateLimitError,facet of,Lamini
+RateLimitError,part of,Lamini
+DistributedDataParallel,part of,PyTorch
+PyTorch,use,distributed training
+DistributedDataParallel,used by,PyTorch
+Llama,developer,Lamini
+Llama,instance of,large language model engine
+Lamini,instance of,trained
+Lamini,product or material produced,data
+Lamini,field of work,trained
+pip uninstall lamini,use,uninstall Lamini
+Lamini,use,pip uninstall lamini
+pip uninstall lamini,use,Lamini
+LLM Engine,programming language,Python
+LLM Engine,part of,Lamini
+frameworks,subclass of,programming language
+Lamini,instance of,libraries
+frameworks,subclass of,libraries
+Lamini,use,generative AI
+Lamini,developer,Lamini team
+Lamini,use,chatbot
+Lamini,developer,Lamini
+hugging face,instance of,base model
+hugging face,instance of,base models
+hugging face,subclass of,base model
+Lamini AI,use,Lamini AI
+Lamini AI,use,pre-trained models
+Lamini,instance of,LLM
+examples,subclass of,documentation
+Lamini,use,natural language processing
+Lamini,instance of,natural language processing
+marketing copy,part of,marketing campaigns
+marketing copy,part of,marketing
+Lamini,instance of,large language model
+Lamini,instance of,Python library
+Lamini Python library,use,Lamini
+JSON,used by,Lamini
+JSON,based on,JSON object
+JSON,used by,JSON object
+Lamini AI's stance on diversity and inclusion,facet of,Lamini AI
+Lamini AI's stance on diversity and inclusion,facet of,diversity and inclusion
+diversity and inclusion,facet of,inclusion
+Docker containers,subclass of,containerized environment
+Docker containers,subclass of,containerized
+Docker containers,use,containerized environment
+list of examples,subclass of,examples
+data type,subclass of,data
+`value_to_dict()`,part of,Lamini
+`value_to_dict()`,programming language,Lamini
+`value_to_dict()` function,part of,Lamini
+Lamini,instance of,AI
+Lamini,use,hyperparameter tuning
+dropout,subclass of,regularization
+Lamini,instance of,LLM Engine
+API,part of,systems
+API,use,API
+free-form text,subclass of,unstructured data
+free-form text,opposite of,unstructured data
+Lamini,use,structured data
+Lamini AI,instance of,AI
+Lamini AI,facet of,Lamini AI
+pandas,instance of,dataframe
+lamini,use,pandas
+pandas,use,dataframe
+"Qrdsrqfduwnfkkhopktylhmdknjhqwgsagvsxhajbfnkdmg,mfI’m having trouble understanding you",has part,try again
+try again,part of,"Qrdsrqfduwnfkkhopktylhmdknjhqwgsagvsxhajbfnkdmg,mfI’m having trouble understanding you"
+"Qrdsrqfduwnfkkhopktylhmdknjhqwgsagvsxhajbfnkdmg,mf fixmeI’m having trouble understanding you",has part,try again
+try again,part of,try again
+Homebrew,operating system,macOS
+apt-get,operating system,Linux
+apt-get,instance of,package manager
+Homebrew,instance of,package manager
+Lamini,parent organization,Google
+Google,subsidiary,Lamini
+text,opposite of,image
+embeddings,use,similarity
+embeddings,uses,similarity
+cold,has effect,shiver
+shiver,has cause,cold
+shiver,facet of,cold
+Lamini,use,natural language text
+Lamini,use,natural language
+LLM Engine,creator,Lamini
+regional dialect,subclass of,dialect
+regional dialect,instance of,cultural context
+regional dialect,instance of,dialect
+Lamini,genre,dream
+dream,facet of,dream
+Lamini,instance of,dream
+anonymized,subclass of,privacy concerns
+anonymized,facet of,privacy concerns
+privacy concerns,has part,data usage considerations
+anonymized,facet of,data usage
+Pythia,instance of,LLM
+Pythia base model,instance of,LLM
+Pythia base model,instance of,instruction-following LLM
+HuggingFace,instance of,libraries
+Lamini,use,machine learning
+filters,subclass of,algorithms
+Lamini,instance of,filters
+algorithms,use,filters
+exponential backoff,subclass of,throttling
+exponential backoff,instance of,throttling
+exponential backoff,use,throttling
+choose-your-own-adventure,subclass of,interactive fiction
+interactive fiction,subclass of,games
+interactive fiction,subclass of,game
+write_story,instance of,function
+Write_story,instance of,function
+True,different from,False
+False,different from,True
+Lamini AI,use,generative AI
+Lamini AI,instance of,generative AI
+first-person,instance of,narrative point of view
+third-person,instance of,narrative point of view
+first-person,subclass of,narrative point of view
+third-person,subclass of,narrative point of view
+class,part of,LLM engine
+class,used by,LLM engine
+LLM engine,has part,class
+Lamini engine,use,LLMs
+LLM,part of,Lamini
+LLM model,used by,Lamini
+Lamini Type system,instance of,library
+LLM Engine,instance of,library
+GLUE,instance of,performance benchmark
+SuperGLUE,instance of,performance benchmark
+LAMBADA,instance of,performance benchmark
+Lamini,use,caching
+Lamini-ai,use,Lamini
+Lamini-ai,programming language,Lamini
+Lamini,use,audio synthesis
+privacy policies,facet of,privacy
+data retention,subclass of,privacy
+Lamini AI,use,virtual private cloud
+LLM Engine,use,LLM
+Lamini,instance of,language model
+LLM Engine,use,Lamini
+English,instance of,languages
+preprocess,subclass of,training data
+How can I handle bias or sensitive content in the generated text,facet of,bias or sensitive content in the generated text
+How can I handle bias or sensitive content in the generated text from Lamini models?,facet of,bias or sensitive content in the generated text from Lamini models
+bias,facet of,sensitive content
+bias,subclass of,sensitive content
+bias,has effect,sensitive content
+language model,facet of,AI
+language models,facet of,AI
+AI,studies,language model
+language model,studied by,AI
+Lamini,instance of,API service
+data privacy,facet of,storage
+Lamini,field of work,data privacy
+Lamini,field of work,data privacy and storage
+GPT,instance of,LLM Engine
+LLM Engine,based on,GPT
+GPT,use,language processing
+M Engine,use,language processing
+GPT,instance of,language processing
+Descriptors,part of,Lamini
+DetailedDescriptors,part of,Lamini
+sensitive,subclass of,confidential information
+Lamini,use,content generation
+marketing copywriting,subclass of,content generation
+Lamini,field of work,model architecture
+Lamini,product or material produced,model architecture
+Lamini,industry,model architecture
+encryption,use,security
+encryption,subclass of,secure communication protocol
+encryption,facet of,security and privacy
+Model Registry,part of,Lamini
+Lamini,use,version control
+privacy,subclass of,security
+encryption,facet of,privacy
+data encryption,facet of,privacy and security concerns
+GPT-2,followed by,GPT-3
+GPT-2,instance of,LLM
+GPT-3,instance of,LLM
+Lamini,uses,GPT-2
+Lamini,uses,GPT-3
+encryption,facet of,data privacy
+encryption,use,data privacy
+Lamini,use,transfer learning
+Lamini,uses,transfer learning
+Lamini AI,use,AI
+RateLimiter,part of,Lamini Python
+code documentation,subclass of,technical writing
+LLM Engine,use,data science
+Readability,different from,complexity
+complexity,different from,Readability
+Lamini,use,multi-label classification
+link building,facet of,search engine optimization
+link building,part of,search engine optimization
+title tag,subclass of,meta descriptions
+search engine ranking,facet of,search engine optimization
+meta descriptions,facet of,search engine optimization
+Lamini,instance of,language model engine
+Lamini,use,language model engine
+Python,has part,LLM Engine
+LLM Engine,part of,Python
+Python library,has part,LLM Engine
+LLM Engine,part of,Python library
+Lamini,use,source code
+Lamini assist in generating code documentation from source code files,use,Lamini
+Lamini assist in generating code documentation from source code files,part of,Lamini
+pun,subclass of,humor
+puns,subclass of,humor
+pun,instance of,humor
+exceptions,subclass of,errors
+exception,use,error handling
+exceptions,use,error handling
+Lamini,use,language model
+Lamini AI,use,proofreading
+Lamini AI,use,content editing
+proofreading,subclass of,content editing
+Lamini Bot,facet of,Lamini
+Lamini Bot,field of work,Lamini
+Lamini Bot,named after,Lamini
+LLM Engine,programming language,Lamini
+Lamini,part of,LLM Engine
+Lamini,use,multimodal learning
+Animal,instance of,package?
+package?,instance of,type name
+package?,instance of,Type format
+Lamini,use,user-friendly
+Lamini,instance of,user-friendly
+user-friendly,subclass of,technical skills
+poetry,instance of,genres
+fiction,instance of,genres
+Lamini library,instance of,programming language
+lightning strike the same place twice,location,Lamini
+strike the same place twice,subclass of,lightning
+lightning strike the same place twice,named after,Lamini
+Lamini,use,model interpretation
+Lamini Python,programming language,Python
+Lamini Python,use,LLM
+Lamini,instance of,programming languages
+Lamini,use,code completion
+insulin,medical condition treated,diabetic
+insulin,facet of,diabetic
+Lamini,uses,insulin
+Type,part of,Lamini Python
+Context,part of,Lamini Python
+Lamini,developer,Lamini project
+Lamini project,developer,Lamini
+contributing code,subclass of,developers
+clusters,subclass of,distributed computing
+clusters,facet of,distributed computing
+cluster,subclass of,distributed computing
+clusters,part of,distributed computing
+software engineer,subclass of,developers
+software engineers,subclass of,developers
+developers,has part,software engineer
+Lamini,uses,context string
+Lamini,instance of,framework
+Lamini,instance of,context string
+Lamini LLM Engine,use,language model
+text,subclass of,structured data
+Lamini LLM Engine,use,language models
+speech synthesis,subclass of,language processing
+Lamini,use,language processing
+Lamini,instance of,language processing
+stop a job,subclass of,stop the machine
+stop a job,subclass of,stop the machine from doing its task
+stop a job,use,stop the machine
+Lamini documentation,main subject,Lamini
+if-then,instance of,conditional statements
+if-then,subclass of,conditional statements
+sentiment analysis,instance of,domains
+text classification,instance of,domains
+LLM models,use,LLM
+LLM,used by,Lamini
+Lamini,use,data preprocessing
+LLM Engine,instance of,Python library
+How long does it take to train a language model using Lamini?,facet of,Lamini
+stop,subclass of,cancel
+stop a job,facet of,ongoing processes
+stop a job,subclass of,ongoing processes
+stop,subclass of,cancellation
+future plans,subclass of,roadmap
+future plan,subclass of,roadmap
+future plans,instance of,roadmap
+exception management,facet of,software application
+exception management,part of,software application
+try-except block,part of,Lamini
+exception management,use,error handling
+exception management,subclass of,error handling
+first-person,instance of,narrative perspectives
+third-person,instance of,narrative perspectives
+first-person,instance of,narrative perspective
+third-person,instance of,narrative perspective
+top-k sampling,instance of,language model
+top-k sampling,subclass of,language model
+top-k sampling,facet of,language model
+reinforcement learning,instance of,algorithms
+fine-tuning,subclass of,training techniques
+ChatGPT,instance of,language model
+poetry,subclass of,creative writing
+poetry,subclass of,storytelling
+rhetorical questions,instance of,persuasive techniques
+emotional appeals,instance of,persuasive techniques
+LLM Engine,based on,Lamini
+memoization,subclass of,caching
+memoization,use,caching
+Lamini AI,use,data augmentation
+Lamini,use,data augmentation
+training data,part of,language model
+base model,part of,LLM Engine
+Lamini,has part,LLM Engine
+libraries,uses,APIs
+libraries,has part,APIs
+Lamini,use,LLM engine
+Lamini,instance of,LLM engine
+natural language processing,studies,syntactically correct
+syntactically correct,studied by,natural language processing
+Lamini library,use,Lamini
+Lamini library,programming language,Lamini
+mystery plot,subclass of,narrative structure
+mystery plot,instance of,narrative structure
+hero's journey,instance of,narrative structure
+Lamini,instance of,language models
+Builder class,part of,Lamini
+Lamini,has part,Builder class
+Chat,use,customer support
+chat,use,customer support
+Lamini,product or material produced,prompt
+Lamini,owned by,Lamini
+Lamini,instance of,prompt
+Lamini,use,natural language understanding
+natural language understanding,subclass of,AI
+TestOutputStr,part of,LLM Engine
+LLM Engine,instance of,class
+TestOutputStr,used by,LLM Engine
+John F. Kennedy School of Government,part of,Harvard University
+I am having trouble understanding,facet of,I am having trouble understanding
+Lamini AI,use,LLM
+API versioning,different from,deprecation
+deprecation,different from,API versioning
+API versioning and deprecation,facet of,API versioning
+final result,subclass of,retrieve
+Get_job_result(),has effect,Get_job_result()
+Get_job_result,has part,Get_job_result()
+Get_job_result,part of,Get_job_result
+MLP classifier,facet of,machine learning
+ensemble classifier,facet of,machine learning
+Lamini,use,Explainable AI
+Lamini,uses,Explainable AI
+LLMs,subclass of,language model
+OpenAI,instance of,research organization
+OpenAI,field of work,artificial intelligence
+OpenAI,industry,artificial intelligence
+encryption,subclass of,security protocol
+encryption,subclass of,security protocols
+Lamini,manufacturer,Lamini
+Lamini models in production,manufacturer,Lamini
+Lamini library,instance of,library
+Lamini,product or material produced,tan
+window,named after,Lamini
+Lamini,has effect,tan
+Lamini,use,named entity recognition
+named entity recognition,facet of,named entities
+Lamini,uses,named entity recognition
+caching,subclass of,performance-enhancing techniques
+latency,subclass of,response time
+latency,has effect,response time
+latency,different from,response time
+response time,different from,latency
+intelligent algorithm,use,optimization
+intelligent algorithms,use,optimization
+intelligent algorithms,subclass of,optimization techniques
+Bayesian optimization,subclass of,optimization
+optimization,subclass of,algorithm
+Bayesian optimization,instance of,optimization
+learning rate,subclass of,hyperparameter
+batch size,subclass of,hyperparameter
+iteratively,has effect,performance
+iteratively,subclass of,fine-tune
+iteratively,subclass of,perform
+elementary,instance of,reading levels
+advanced,instance of,reading levels
+training,use,inference
+TensorFlow,use,machine learning
+PyTorch,use,machine learning
+Lamini AI,use,virtual assistant
+Lamini AI,use,virtual assistants
+Lamini AI,use,chatbot
+Python,has part,interpreter
+interpreter,part of,Python
+Python,has part,Python interpreter
+Python interpreter,part of,Python
+Lamini AI,use,LLM engine
+Lamini AI,instance of,LLM engine
+LlamaIndex,developer,Lamini
+Lamini,product or material produced,LLamaIndex
+Lamini,product or material produced,LlamaIndex
+Python,instance of,programming language
+Java,instance of,programming language
+JavaScript,instance of,programming language
+Python,instance of,programming languages
+Java,instance of,programming languages
+JavaScript,instance of,programming languages
+Can animals laugh?,author,Lamini
+Can animals laugh?,main subject,Lamini
+Can animals laugh?,performer,Lamini
+Laminia,operating system,macOS
+Laminia,instance of,github
+Horovod,use,distributed training
+Lamini,uses,Horovod
+Lamini,based on,Horovod
+model weights,use,predictions
+batch inference,uses,model weights
+model weights,use,prediction
+seed text,subclass of,prompts
+Lamini,uses,seed text
+Lamini,uses,prompts
+formatted,subclass of,format
+Lamini,instance of,formatted
+formatted,part of,format
+LlamaIndex,part of,Lamini
+Lamini,has part,LlamaIndex
+LlamaIndex,use,Lamini
+llama,programming language,Python
+Lamini,instance of,cloud-based
+Lamini,instance of,cloud-based solution
+documentation,part of,software development
+Lamini,instance of,software development methodologies
+documentation,part of,development workflows
+Lamini,instance of,machine learning
+LlamaIndex,influenced by,Lamini
+LlamaIndex,based on,Lamini
+LlamaIndex,instance of,LLM
+Lamini,parent organization,Microsoft
+Microsoft,subsidiary,Lamini
+Lamini,owned by,Microsoft
+Microsoft,owner of,Lamini
+84092384972847832590458,instance of,understanding
+84092384972847832590458,point in time,8409
+84092384972847832590458,point in time,84092384972847832590458
+Lamini,uses,prompt engineering
+Lamini,use,prompt engineering
+Lamini,instance of,prompt engineering
+free,opposite of,paid
+Lamini,instance of,api
+Lamini,use,api
+PyTorch,use,LLM
+Lamini,based on,PyTorch
+str,instance of,object type
+int,instance of,object type
+bool,instance of,object type
+float,instance of,object type
+list,instance of,object type
+set,instance of,object type
+dict,instance of,object type
+tuple,instance of,object type
+str,instance of,object types
+int,instance of,object types
+bool,instance of,object types
+float,instance of,object types
+list,instance of,object types
+set,instance of,object types
+dict,instance of,object types
+tuple,instance of,object types
+str,instance of,Type fields
+int,instance of,Type fields
+bool,instance of,Type fields
+float,instance of,Type fields
+list,instance of,Type fields
+set,instance of,Type fields
+dict,instance of,Type fields
+tuple,instance of,Type fields
+Lamini Engine,instance of,LLM Engine
+Databricks,use,Language Model
+Lamini,use,Databricks
+API,subclass of,library
+taste,different from,sense of smell
+sense of smell,different from,taste
+taste,has part,sense of smell
+Lamini,use,training language
+llama,part of,LLM Engine
+llama,use,LLM Engine
+LLM Engine,has part,llama
+text generation,subclass of,natural language processing
+text generation,facet of,natural language processing
+text generation,part of,natural language processing
+wordplay,subclass of,humor
+humor,has part,wordplay
+humor,instance of,wordplay
+irony,facet of,sarcasm
+sarcasm,subclass of,irony
+sarcasm,facet of,irony
+corpus,subclass of,language model
+corpus,has part,language model
+corpus of text,subclass of,language model
+Lamini,use,large language model engine
+Lamini,instance of,large language model engine
+LLM Engine,use,language model
+Lamini Python,use,Lamini
+LLM,instance of,API
+LLM,instance of,APIs
+Lamini library,use,LLM
+onestream,developer,Lamini
+onestream,discoverer or inventor,Lamini
+onestream,named after,Lamini
+Lamini AI,use,natural language processing
+natural language processing,subclass of,algorithms
+natural language processing,subclass of,algorithm
+marketing,has part,advertising
+BYEBye,followed by,Bye Bye
+ByeBye,followed by,Bye Bye
+Bye Bye,follows,BYEBye
+Lamini,use,pytorch saved model
+code snippets,subclass of,code
+auto-generating code snippets,use,code documentation
+Lamini,use,text augmentation
+sarcasm,subclass of,humor
+sarcasm,instance of,humor
+sarcasm,facet of,humor
+training data,use,data augmentation
+data privacy,subclass of,security
+data privacy,facet of,security
+security,has part,data privacy
+Lamini,use,Virtual Private Cloud
+Lamini,opposite of,LangChain
+LangChain,opposite of,Lamini
+Lamini,different from,LangChain
+LangChain,different from,Lamini
+LangChain,influenced by,Lamini
+Lamini,influenced by,LangChain
+memory management,subclass of,interfaces for memory
+Lamini,developer,Lamini-ai
+Lamini-ai,product or material produced,Lamini
+Lamini,used by,Lamini-ai
+Lamini-ai,uses,Lamini
+optimizing,facet of,memory usage
+memory usage,subclass of,optimization
+memory usage,facet of,optimizing
+natural language processing,has part,machine learning
+lamini,programming language,Python
+content caching,subclass of,caching
+test case,facet of,test
+CDN integration,subclass of,caching
+input and output types,subclass of,data type
+input and output types in Lamini Python package,instance of,data type
+Type,subclass of,data type
+Context,subclass of,data type
+LLM,programming language,Python
+Type,subclass of,classes
+LLM Engine,use,Text generation
+Context,subclass of,classes
+Automatic Speech Recognition,use,speech recognition
+Automatic Speech Recognition,subclass of,speech recognition
+Lamini,use,Automatic Speech Recognition
+training data,part of,pre-processing
+training data,used by,pre-processing
+Lamini,use,pre-processing
+Auth,use,authentication
+authentication providers,use,authentication
+Auth,use,authentication providers
+tribe,part of,subfamily
+camelinae,endemic to,South America
+camelinae,parent taxon,llama
+Lamini,use,large language model
+RLHF,instance of,algorithm
+Lamini,use,large language models
+performance under load,facet of,scalability
+performance under load,subclass of,scalability
+scalability,subclass of,performance
+LLM Engine,use,performance optimization
+LLM Engine,instance of,performance optimization
+LLM Engine,use,real-time interface
+sense of smell,named after,Lamini
+smell,instance of,sense
+Lamini,has effect,sense of smell
+saliency map,subclass of,attention map
+saliency map,instance of,attention map
+saliency maps,subclass of,attention maps
+RLHF algorithm,part of,Lamini
+RLHF algorithm,use,training
+RLHF algorithm,use,base model
+Lamini,use,realistic dialogues or conversations
+Lamini,use,realistic dialogues
+Lamini,use,context window
+Python Library,part of,Lamini
+Python Library,used by,Lamini
+Can you die from a broken heart?,author,Lamini
+Lamini,main subject,broken heart
+Can you die from a broken heart?,main subject,Lamini
+hyperparameters,part of,model architectures
+hyperparameters,part of,model architecture
+Lamini,use,training data
+clusters,subclass of,clusters
+clusters,subclass of,distributed training
+Lamini,use,distributed training
+ChatGPT,use,LLM Engine
+LLM Engine,use,REST
+ChatGPT,platform,LLM Engine
+documentation hub,instance of,knowledge repository
+documentation hub,subclass of,knowledge repository
+documentation,subclass of,knowledge repository
+Lamini,instance of,knowledge repository
+How is your day?,facet of,day
+How is your day?,facet of,how my day is?
+How is your day?,main subject,how my day is?
+LLM Engine,instance of,algorithm
+LLM Engine,use,parallel processing
+LLM Engine,instance of,parallel processing
+pip,instance of,package manager
+Lamini,uses,pip
+bug report,subclass of,documentation
+bug reports,subclass of,documentation
+bug report,part of,documentation
+Chinese,writing system,complex character systems
+Japanese,writing system,complex character systems
+Chinese,writing system,complex character system
+Japanese,writing system,complex character system
+Chinese,instance of,character system
+Japanese,instance of,character system
+documentation,facet of,documentation
+documentation,subclass of,documentation
+modules,different from,classes
+classes,different from,modules
+freckles,named after,Lamini
+Why do some people have freckles?,author,Lamini
+Why do some people have freckles?,main subject,Lamini
+Python,instance of,operating system
+Lamini,instance of,operating system
+Lamini,instance of,documentation
+Lamini,distributed by,Lamini Discord
+`check_job_status()`,use,Lamini
+`check_job_status()`,programming language,Lamini
+Python library,instance of,programming language
+Python 3,subclass of,Python
+natural language processing,subclass of,AI
+natural language processing,subclass of,language processing
+voice-enabled applications,subclass of,virtual assistants
+voice-enabled applications,subclass of,virtual assistant
+PowerML,use,batching
+PowerML,use,batching interface
+Lamini,influenced by,PowerML
+OpenAI,instance of,open source
+OpenAI,field of work,open source
+Lamini,use,medical reports
+regularization,subclass of,optimization
+Lamini's LLM training module,use,Lamini's LLM training module
+natural language interface,opposite of,graphical user interface
+natural language interfaces,opposite of,graphical user interface
+graphical user interface,opposite of,natural language interfaces
+human-in-the-loop,subclass of,post-processing
+Lamini,use,human-in-the-loop
+filters,use,post-processing
+Llamas,subclass of,camelids
+Llamas,subclass of,camelid
+paraphrasing,subclass of,summarization
+LLM,subclass of,model
+paraphrasing,part of,summarization
+modular design,instance of,design pattern
+modular design,instance of,design patterns
+modular design,subclass of,design pattern
+Lamini,product or material produced,prompt階
+memory,different from,storage
+storage,different from,memory
+plagiarized,subclass of,copyrighted content
+Lamini,instance of,algorithm
+Lamini,main subject,plagiarized
+hidden state,subclass of,language model
+hidden state,facet of,language model
+complexity,different from,simplicity
+simplicity,different from,complexity
+dev set,facet of,machine learning
+dev set,use,machine learning
+overfitting,facet of,machine learning
+LLM Engine,use,machine learning
+Lamini credits,instance of,$0.001
+Lamini credits,instance of,$0.001 per credit
+Lamini credits,has part,$0.001
+Lamini credits,facet of,Lamini
+Lamini credits,part of,Lamini
+functions,part of,code
+function,subclass of,information
+code documentation,subclass of,information
+Lamini,use,time series forecasting
+Lamini,developer,Lamini support team
+virtual assistant,subclass of,voice-based applications
+noise,subclass of,learning
+noise,facet of,learning
+structure,subclass of,learning
+noise,facet of,noise
+Lamini,use,offline inference
+Lamini,use,inference
+Lamini,use,text generation
+humor,has part,jokes
+point of diminishing returns,facet of,training data
+point of diminishing returns,subclass of,training data
+point of diminishing returns,facet of,algorithm
+dialects,subclass of,languages
+dialects,part of,languages
+dialect,subclass of,languages
+Auth,use,authentication tokens
+authentication tokens,facet of,user sessions
+Lamini,field of work,documentation
+Lamini,genre,documentation
+Lamini’s,field of work,documentation
+scripts,has part,dialogues
+script,has part,dialogues
+API,subclass of,libraries
+REST API,subclass of,libraries
+REST API,subclass of,API
+LLM Engine,used by,Lamini
+Lamini AI,instance of,library
+Lamini AI,instance of,platform
+Lamini AI,developer,Lamini AI
+LLM Engine,use,Language model
+LLM Engine,use,Performance
+LLM Engine,instance of,Language model
+Lamini,use,user management
+user authentication and authorization,facet of,user management
+saliency map,part of,Lamini
+saliency maps,part of,Lamini
+saliency map,subclass of,interpretability feature
+Laminia,use,input validation
+Lamini,use,input validation
+Laminia,instance of,input validation
+Lamini Python,instance of,package
+Python,influenced by,Lamini
+Lamini,instance of,community forum
+Lamini,developer,Lamini website
+Lamini website,product or material produced,Lamini
+Apache Spark,use,distributed computing
+TensorFlow,use,distributed computing
+Lamini,use,artificial intelligence
+content generation,facet of,video game
+Lamini,use,time-series
+Lamini,use,time-series data
+reward learning from human feedback,subclass of,reinforcement learning
+reward learning from human feedback,facet of,reinforcement learning
+reward learning,subclass of,reinforcement learning
+Python,instance of,library
+Python library,has part,Lamini
+Lamini AI,use,LLM models
+Lamini,instance of,APIs
+Lamini,programming language,Lamini
+language model,subclass of,trained model
+output,subclass of,output
+language model,instance of,trained model
+ChatGPT,instance of,LLM Engine
+forums,subclass of,online communities
+forums,part of,online communities
+community,part of,online communities
+Python library,used by,Lamini
+Large Language Model,use,natural language processing
+LLM class,part of,Lamini Python
+natural language processing,studies,language model
+Lamini Python,instance of,library
+Lamini,use,language modeling
+Lamini,instance of,language modeling
+Large Language Model,part of,natural language processing
+Large Language Model,subclass of,natural language processing
+Lamini,language of work or name,English
+Lamini,use,multilingual
+pip,use,package manager
+pip,programming language,Python
+Lamini AI,use,data preprocessing
+Can you tickle yourself?,performer,Lamini
+Can you tickle yourself?,named after,Lamini
+Can you tickle yourself?,author,Lamini
+Lamini AI,use,generating text
+generating text,used by,Lamini AI
+Lamini AI,use,generating text in multiple languages
+generating text in multiple languages,use,Lamini AI
+ChatGPT,use,language modeling
+Lamini,field of work,diversity and inclusion
+Lamini,field of work,diversity
+Lamini,use,sentiment analysis
+LLM Engine,part of,LLM
+AI,has part,machine learning
+data scientist,part of,AI
+machine learning,part of,AI
+trained,facet of,machine learning
+trained,part of,machine learning
+trained,subclass of,machine learning
+morphology,subclass of,character encoding
+morphology,part of,language
+morphology,subclass of,language-specific features
+Lamini,use,synthetic data
+"Can Lamini have conversations with me, like a friend?",instance of,language model
+Can Lamini have conversations with me,instance of,language model
+Lamini,different from,ChatGPT
+Lamini,use,language model development
+LangChain,different from,LangChain
+Lamini API key,instance of,authentication token
+language model,use,natural language processing
+natural language processing,part of,AI
+Hi hi hib hi hi,instance of,Lamini Bot
+Lamini AI,instance of,trained
+mystery,subclass of,thriller
+suspense,instance of,genre
+thriller,instance of,genre
+thriller,main subject,suspense
+Lamini AI,use,hosted data generator
+user-friendly,opposite of,technical knowledge
+logging,use,alerting
+LLM Engine,has part,Lamini
+blush,has cause,embarrassed
+embarrassed,has effect,blush
+blush,facet of,embarrassed
+blush,said to be the same as,embarrassed
+embarrassed,said to be the same as,blush
+caching,use,load balancing
+load balancing,subclass of,caching
+load balancing,facet of,performance
+Lamini,use,prompt management
+Lamini,use,prompt management and optimization
+performance optimization,subclass of,optimization
+adversarial training,subclass of,training
+adversarial training,subclass of,training data
+`add_data()`,part of,`Program` class
+`Program` class,use,program
+rest API,subclass of,API endpoint
+API endpoint,use,API
+API endpoint,part of,API
+LlamaIndex,used by,Lamini
+pandas DataFrame,instance of,DataFrame
+DataFrame,use,pandas DataFrame
+PersonType,part of,pandas DataFrame
+PersonType,use,pandas DataFrame
+authentication,facet of,data security
+authentication and security features,facet of,data security
+authentication,subclass of,data security
+Lamini,use,MLPerf
+MLPerf,use,inference
+Lamini,uses,MLPerf
+2016 Summer Olympics,point in time,2016
+2016 FIFA World Cup,point in time,2016
+2016 Olympic Games,point in time,2016
+learning rate,facet of,machine learning
+learning rate,subclass of,hyperparameters
+learning rate,instance of,hyperparameters
+the best tourist places around,facet of,Lamini
+the best tourist places around,location,Lamini
+the best tourist places around,main subject,Lamini
+Docker,use,containerization
+Docker,instance of,containerization
+Docker,use,containerization technologies
+user persona,subclass of,persona
+Lamini,use,data generator
+short stories,subclass of,creative writing
+Fine-tuning,subclass of,training
+Hugging face,part of,OpenAI
+OpenAI,has part,Hugging face
+GPT3,part of,OpenAI
+Lamini,different from,openai
+Lamini fine-tuning,part of,Lamini
+HTTP,instance of,programming language
+JSON,instance of,programming language
+Lamini,use,conversational AI
+Lamini,use,AI agents
+Stanford Alpaca,instance of,data generator pipeline
+Stanford Alpaca,instance of,LLM
+Stanford Alpaca,use,data generator pipeline
+Stanford Alpaca,use,LLM
+Lamini data generator pipeline,use,machine learning
+train,facet of,machine learning
+pun,facet of,humor
+Kubernetes,use,containerization
+supervised,opposite of,unsupervised learning
+unsupervised learning,opposite of,supervised
+supervised,uses,supervised learning
+Lamini AI,use,detect and handle contradictory information
+detect and handle contradictory information,used by,Lamini AI
+Lamini,use,language generation models
+Lamini,use,language generation model
+Hugging Face,part of,OpenAI
+Hugging Face,instance of,OpenAI
+Hugging Face,use,LLM
+Stop the execution,facet of,job
+`cancel_job()`,used by,Lamini
+privacy,facet of,security
+security,has part,privacy
+home_yaml_config,instance of,configuration dictionary
+home_yaml_config,use,configuration dictionary
+configuration dictionary,use,configuration options
+marketing materials,has part,content
+brand voice,instance of,tone
+content,part of,marketing materials
+text classification,subclass of,machine learning
+sentiment analysis,subclass of,machine learning
+Context class,part of,Lamini
+`Context` class in Lamini,part of,Lamini
+language model,studied by,natural language processing
+JSON,instance of,formatted
+CSV,instance of,formatted
+Type class,use,Type type
+Type class,use,Type
+Animal type,instance of,Type class
+Lamini Python,use,LLM engine
+Lamini,distributed by,GitHub
+code snippets,subclass of,coding examples
+LLM Engine,use,document classification
+language model,has part,training data
+Lamini,owned by,openai
+openai,owner of,Lamini
+Lamini,parent organization,openai
+openai,subsidiary,Lamini
+openai,subsidiary,Lamini AI
+Lamini AI,parent organization,openai
+LLM Engine,use,e-commerce
+LLM Engine,instance of,website
+LLM Engine,industry,e-commerce
+Lamini,use,image processing
+domain,part of,industry
+Lamini,programming language,python
+LLM Engine Lamini,use,natural language processing
+TensorFlow,instance of,software development framework
+PyTorch,instance of,software development framework
+loop unrolling,instance of,optimization
+loop unrolling,subclass of,optimization
+loop unrolling,instance of,optimization techniques
+opinion mining,facet of,sentiment analysis
+check_job_status(),programming language,Lamini
+`check_job_status(),programming language,Lamini
+`check_job_status()`,part of,Lamini
+sentiment,subclass of,emotional tone
+sentiment,facet of,emotional tone
+sentiment,part of,emotional tone
+alliteration,instance of,rhetorical devices
+onomatopoeia,instance of,rhetorical devices
+news article,instance of,genres
+Lamini,use,deep learning
+Lamini data generator,part of,Lamini
+API client,programming language,Python
+Python API,instance of,API
+Python API,has part,API client
+API client,part of,Python API
+Lamini,use,conditional text generation
+Lamini,instance of,conditional text generation
+UI mockups,facet of,user interface
+UI mockup,facet of,user interface
+UI mockups,subclass of,user interface
+domain-specific feature engineering,subclass of,data augmentation
+Lamini Python library,has part,Type
+Lamini Python library,has part,Context
+Lamini,instance of,standalone service
+Lamini,uses,LLM Engine
+Lamini,instance of,modeling
+Lamini,use,hugging face
+Lamini,use,secure
+sensitive data,facet of,sensitive
+sensitive data,subclass of,sensitive or confidential information
+Lamini,founded by,Sharon Zhou
+Lamini,founded by,Greg Diamos
+academic papers,instance of,writing style
+academic papers,instance of,writing styles
+Docker,use,containers
+Docker,uses,containers
+LLM Engine,use,Docker
+quiz,subclass of,surveys
+prompts,subclass of,questions
+prompts,has part,questions
+Lamini,use,interactive storytelling
+interactive storytelling,subclass of,narrative
+LLM Engine,instance of,language model
+LLM Engine,uses,language model
+TPU,subclass of,GPU
+GPU,use,high-performance computing
+GPUs,use,high-performance computing
+Lamini notebook,use,lamini
+Lamini notebook,use,Lamini
+Lamini notebook,programming language,lamini
+Lamini notebook,part of,Lamini
+Lamini notebook,programming language,Lamini
+language model,facet of,natural language
+Lamini,use,language translation
+Lamini library,use,language translation
+Python,instance of,language agnostic
+Python,instance of,language
+data augmentation,subclass of,training
+Lamini,use,informality
+domains,part of,formality
+academic journal,subclass of,academic journal
+Lamini,use,reinforcement learning
+reinforcement learning,subclass of,training
+Google Cloud,instance of,cloud
+AWS,instance of,cloud platforms
+Google Cloud,instance of,cloud platforms
+Lamini,instance of,open-source
+open-source,said to be the same as,freely
+freely,said to be the same as,open-source
+Lamini,instance of,open-source project
+filter_fn,use,filtering
+filter_fn,instance of,filtering function
+filter_fn,use,filtering function
+logical inference,subclass of,inference
+Lamini AI,use,logical inference
+sealed room with no air,subclass of,suffocate
+no air,subclass of,suffocate
+no air,has effect,suffocate
+Lamini,instance of,sentiment analysis
+jargon,instance of,industry standard
+jargon,subclass of,industry standard
+jargon,part of,industry standard
+domain-specific,subclass of,jargon
+JSON,used by,JSON Schema
+JSON Schema,based on,JSON
+JSON Schema,uses,JSON
+licensing,facet of,copyright
+copyright,has part,licensing
+Lamini,instance of,software application
+news,instance of,genres
+business reports,instance of,genres
+hardware,used by,software
+software,opposite of,hardware
+hardware,used by,software resources
+software,different from,hardware
+Hugging Face,instance of,repository
+Hugging Face,instance of,model repository
+LLM Engine,use,PyTorch
+Hugging Face,has part,LLM Engine
+Hugging Face,use,LLM Engine
+Markdown,based on,HTML
+Markdown,part of,HTML
+Lamini,uses,Markdown
+True,opposite of,False
+False,opposite of,True
+Lamini,use,hyperparameters
+Lamini,instance of,hyperparameters
+LLM Engine,use,LLMs
+data augmentation,subclass of,data preparation
+data augmentation,subclass of,format
+best practices for data preparation,facet of,data preparation
+SLURM,instance of,distributed training
+SLURM,use,distributed training
+SLURM,subclass of,distributed training
+domain-specific jargon,subclass of,technical terminology
+LLMs,use,machine learning
+Python library,developer,Lamini
+anonymized,facet of,user privacy
+anonymized,subclass of,protected
+active learning,subclass of,training
+anonymized,facet of,data security
+anonymized,subclass of,data security
+anonymized,part of,data security
+privacy,subclass of,data security
+data security,facet of,privacy
+Langchain,use,chains
+Langchain,different from,Lamini
+Langchain,influenced by,Lamini
+Lamini,instance of,taller
+How to get taller?,main subject,Lamini
+How to get taller,main subject,Lamini
+community forum,subclass of,forums
+Lamini website,instance of,community forum
+Lamini AI,parent organization,Lamini
+Lamini,subsidiary,Lamini AI
+Lamini AI,owned by,Lamini
+Lamini,owner of,Lamini AI
+storybook,instance of,libraries
+hugging face,instance of,libraries
+logistic regression,subclass of,classifier
+logistic regression,subclass of,classifiers
+MLP,subclass of,classifier
+Lamini,instance of,cloud-based language model
+LlamaIndex,use,LLM
+LlamaIndex,use,LLMs
+Llama,use,large language model engine
+Llama,instance of,language model engine
+exception,subclass of,errors
+exception,subclass of,error
+Lamini,has effect,goosebumps
+Lamini,instance of,goosebumps
+Why do we get goosebumps?,named after,Lamini
+virtual,subclass of,augmented reality
+language model,part of,Lamini
+limericks,instance of,poetic forms
+ballads,instance of,poetic forms
+limericks,subclass of,poetic forms
+ballads,subclass of,poetic forms
+Formality,subclass of,informality
+Lamini,field of work,pseudocode
+Lamini,instance of,pseudocode
+Llama,instance of,large language
+Lamini,product or material produced,LLM
+Lamini,use,collaboration
+shared workspaces,use,collaboration
+LLM Engine,part of,Lamini AI
+RuntimeError,subclass of,exception
+RuntimeError,subclass of,exceptions
+Lamini,has part,get_response
+get_response,part of,Lamini
+Pandoc,instance of,libraries
+WeasyPrint,instance of,libraries
+Pandoc,instance of,libraries and tools
+Lamini AI,programming language,Python
+Lamini AI,programming language,Java
+Lamini AI,programming language,C++
+best practices,subclass of,guidelines
+best practices,facet of,testing
+best practices,facet of,testing methodology
+testing methodology,instance of,best practices
+2012 Summer Olympics,point in time,2012
+2010 Commonwealth Games,point in time,2010
+2010 FIFA World Cup,point in time,2010
+privacy policies,facet of,privacy policies
+privacy policies,subclass of,terms of service
+terms of service,part of,privacy policies
+LLM engine,programming language,Lamini
+LLM engine,part of,Lamini
+LLM engine in Lamini,part of,Lamini
+Lamini,has part,LLM engine in Lamini
+ByeeeeBye,followed by,Bye
+Bye,follows,Bye
+ByeeeeBye,followed by,Bye Bye
+Pythia,instance of,pre-trained models
+Falcon,instance of,pre-trained models
+Pythia,developer,Lamini AI
+WizardLM,developer,Lamini AI
+Lamini Bot,use,Lamini
+Lamini Bot,uses,Lamini
+Lamini AI,language of work or name,English
+Lamini AI,use,multiple languages
+Kubernetes,instance of,containerization
+GPT 3.5,use,language processing
+inclusive,subclass of,bias
+gender,subclass of,bias
+gender,instance of,bias
+Lamini,use,distributed systems
+tone,instance of,writing style
+writing style,facet of,literary figures
+tone,part of,writing style
+tone,instance of,style
+tone,part of,style
+deep learning,studies,neural network
+neural network,studied by,deep learning
+automated testing,facet of,version control
+fine-tuning,uses,training data
+fine-tuning,facet of,training data
+fine-tuning the model,uses,training data
+perplexity,subclass of,metrics
+perplexity,facet of,LLMs
+perplexity,subclass of,LLMs
+Virtual Private Cloud,subclass of,data privacy
+batch size,subclass of,hyperparameters
+Chocolatey,instance of,package manager
+Chocolatey,operating system,Windows
+Stop the job,facet of,Llama
+Llama,instance of,job ID
+cancellation,subclass of,function
+interrupt,subclass of,cancellation
+Lamini,use,multi-modal text generation
+distributed caching,subclass of,caching
+distributed caching,subclass of,caching techniques
+synchronized,subclass of,synchronization
+garbage collection,subclass of,memory management
+garbage collection,part of,memory management
+garbage collection,facet of,memory management
+Lamini,use,named entity recognition and extraction
+huggingface,developer,OpenAI
+deep learning,subclass of,machine learning
+Databricks,use,deep learning
+Lamini,instance of,cloud-based service
+LLM engine,developer,Lamini
+backup,use,disaster recovery
+Lamini,use,load balancer
+Lamini,instance of,load balancer
+Lamini AI,use,AI text generation
+Lamini AI,use,text generation
+Lamini library,instance of,APIs
+regularization,opposite of,overfitting
+Lamini library,use,LLMs
+first-person,subclass of,narrative perspectives
+third-person point of view,subclass of,narrative perspectives
+third-person point of view,instance of,narrative perspectives
+community forums,subclass of,support channel
+community forums,subclass of,support channels
+community forum,subclass of,support channel
+continuous learning,subclass of,AI
+Lamini,use,continuous learning
+base model selection,subclass of,training
+infrastructure,used by,infrastructure engineer
+Lamini,use,real-time text generation
+virtual assistant,subclass of,chatbot
+GPU,subclass of,computational requirements
+GPU,use,computational requirements
+Lamini,instance of,cloud services
+pre-trained models,part of,machine learning
+API calls,use,API
+Lamini,part of,LangChain
+LangChain,has part,Lamini
+training,subclass of,models
+HuggingFace,use,transfer learning
+HuggingFace,developer,Lamini
+transfer learning,subclass of,pre-training
+Lamini,developer,Llamasoft
+Llama,developer,Llamasoft
+Llamasoft,product or material produced,Llama
+random search,instance of,heuristic
+cross-validation,instance of,algorithm
+Bayesian optimization,instance of,intelligent algorithm
+Lamini,instance of,intelligent algorithm
+hyperparameter space,facet of,machine learning
+hardware,part of,system architecture
+MosaicML,use,LLMs
+MosaicML,instance of,LLMs
+adversarial training,subclass of,bias detection and mitigation
+adversarial training,subclass of,bias detection and mitigation techniques
+adversarial training,instance of,bias detection and mitigation
+adversarial training,subclass of,bias detection
+algorithm,use,machine learning
+PyTorch,programming language,Python
+I’m having trouble understanding you,followed by,Try again
+Try again,follows,I’m having trouble understanding you
+I’m having trouble understanding you,has part,Try again
+Try again,part of,I’m having trouble understanding you
+I’m having trouble understanding you,followed by,try again
+try again,follows,I’m having trouble understanding you
+Can animals see in color?,creator,Lamini
+Can animals see in color?,named after,Lamini
+Can animals see in color?,author,Lamini
+RoBERTa,instance of,pre-trained models
+RoBERTa,instance of,pre-trained
+GPT-2,instance of,pre-trained models
+RoBERTa,use,text classification
+RoBERTa,use,pre-trained
+Lamini,use,fine-tuning
+Laminar,use,fine-tuning
+Laminas,use,fine-tuning
+Lamini,product or material produced,model
+Lamini,use,model fine-tuning
+Laminia,use,model fine-tuning
+Lamini,instance of,yawn
+Why do we yawn,facet of,yawning
+yawn,facet of,yawning
+logical inference,use,inference
+CSV,has part,input data
+CSV,instance of,format
+Lamini,based on,CSV
+CSV file,instance of,format
+Lamini,uses,CSV
+Lamini,use,pre-trained models
+pre-trained models,different from,train from scratch
+train from scratch,different from,pre-trained models
+LLM architectures in Lamini,facet of,Lamini
+LLM architectures in Lamini,different from,LLM architectures in Lamini
+LLM architectures in Lamini,part of,Lamini
+LLM architecture,instance of,architectures
+LLM architecture,subclass of,architectures
+explainability,facet of,interpretability
+Lamini Python,part of,Lamini
+writing style,facet of,historical era
+transfer learning,subclass of,pre-trained models
+pre-trained models,subclass of,training
+Lamini,platform,GPUs
+haiku,subclass of,poetry
+sonnet,subclass of,poetry
+Lamini,use,datasets
+Lamini,use,data selection and balancing
+GPT-2,use,transfer learning
+BERT,use,transfer learning
+GPT-2,instance of,transfer learning
+Python,influenced by,LLM Engine
+language localization,subclass of,translation
+language localization,facet of,translation
+Lamini AI,use,language localization
+Lamini,use,storytelling
+Lamini,instance of,engine
+Lamini Engine,use,Lamini
+parallel processing,subclass of,inference
+Lamini,use,parallel processing
+MLA,based on,AP Style
+AP Style,instance of,MLA format
+AP Style,different from,MLA
+MLA,different from,AP Style
+encryption,use,data security
+encryption,facet of,data security
+encryption,subclass of,data security
+syntax,part of,grammar
+grammar,different from,syntax
+syntax,different from,grammar
+grammar,part of,syntax
+chatbot,subclass of,virtual assistant
+Language translation,instance of,language model
+Lamini,use,Language translation
+translations,subclass of,language
+language translations,uses,language
+language translations,subclass of,language switching
+Lamini AI,industry,AI moat
+Lamini AI,product or material produced,AI moat
+Lamini AI,use,AI moat
+sentiment analysis,studies,sentiment
+sentiment,studied by,sentiment analysis
+Lamini,instance of,swim
+Lamini,sport,swim
+Can you swim immediately after eating?,main subject,Lamini
+(_++==&^%$#@,followed by,(_++==&^%$#@
+(_++==&^%$#@,has part,(_++==&^%$#@)
+Lamini Bot,main subject,Lamini
+Python,instance of,programming
+Python,use,programming
+Laminas,instance of,api
+writing guidelines,subclass of,style manuals
+GPUs,subclass of,hardware
+GPUs,instance of,hardware
+Internal Server 500,subclass of,Internal server error
+Internal Server 500 errors,subclass of,Internal server error
+Internal Server 500 error,subclass of,Internal server error
+listeners,subclass of,event handlers
+Listeners,subclass of,event handlers
+Event Handler,subclass of,listeners
+Lamini,use,text summarization
+Lamini,instance of,developers
+incremental learning,subclass of,continuous improvement
+incremental learning,subclass of,continuous improvement of models
+chatbot,subclass of,virtual assistants
+Lamini library,part of,Lamini
+Lamini library,instance of,LLM
+Lamini,use,data encryption
+Lamini,use,privacy
+Lamini,use,encryption
+marketing,facet of,sales
+marketing copy,facet of,marketing
+product descriptions,part of,marketing
+hero's journey,subclass of,storytelling
+hero's journey,instance of,storytelling
+plot arc,subclass of,storytelling
+"HeyHey, I am a Lamini Bot",main subject,Lamini
+encryption,part of,data security
+Llama,instance of,library
+Llama,instance of,program library
+Llama program library,use,Llama
+Lamini library,use,LLM engine
+Lamini,use,privacy-preserving
+Lamini,use,privacy-preserving techniques
+Lamini Library,use,language processing
+language models,studied by,language processing
+language processing,studies,language models
+natural language understanding,subclass of,language processing
+natural language understanding,studied by,language processing
+language pattern,subclass of,training data
+language patterns,subclass of,training data
+historical,part of,cultural
+Lamini,programming language,Python library
+add_data,programming language,Python
+cache,use,caching mechanism
+cache,use,caching
+cache,subclass of,caching mechanism
+train,followed by,test
+train,different from,test set
+test set,different from,train
+Lamini's functions,use,Lamini's functions
+Lamini,movement,current time
+Lamini,genre,current time
+Lamini,time period,current time
+Lamini,use,virtual private cloud
+BERT,use,LLM
+BERT,part of,LLM
+GPT-2,use,LLM
+oversampling,subclass of,data augmentation
+oversampling,subclass of,data imbalance issues
+oversampling,subclass of,data imbalance
+Lamini Bot,field of this occupation,Lamini
+community forum,subclass of,discussion group
+community forum,subclass of,forum
+Lamini,use,input data format
+Lamini,uses,input data format
+data privacy,part of,security
+Git,use,version control systems
+Git,instance of,version control systems
+Git,use,version control system
+Lamini library,instance of,API
+How are you doing?,instance of,Ask me a question
+How are you doing?,instance of,question
+How are you doing?,subclass of,question
+Lamini,use,HTML
+Lamini,instance of,markup
+Lamini,instance of,functions
+Lamini engine,instance of,functions
+Lamini Types,part of,Lamini
+Lamini,has part,Lamini Types
+privacy,subclass of,data protection
+data encryption,facet of,privacy
+data encryption,facet of,data protection
+user-friendly,opposite of,technical background
+Lamini,instance of,programming
+Lamini,use,programming
+api key,use,API
+api key,use,api
+api key,part of,API
+Lamini,programming language,Python 3
+Lamini,programming language,Python 3.6
+LMKJAHSUYQFSHGX,instance of,AJA
+ERQIUJLKCMABHSVANDLKFHPGHL,instance of,AJA
+Lamini Type,instance of,library
+pythia,instance of,Lamini base models
+dolly,instance of,Lamini base models
+falcon,instance of,Lamini base models
+wizard-lm,instance of,Lamini base models
+pythia,part of,Lamini
+dolly,part of,Lamini
+falcon,part of,Lamini
+wizard-lm,part of,Lamini
+pythia,part of,Lamini library
+dolly,part of,Lamini library
+Lamini library,use,language processing
+Lamini library,use,Lamini base models
+Lamini library,named after,Lamini
+embeddings,subclass of,pre-trained models
+embeddings,part of,pre-trained models
+Lamini,use,real-time applications
+Lamini,use,real-time application
+logistic regression,subclass of,MLP
+logistic regression,part of,MLP
+logistic regression,subclass of,discriminator model
+GridSearchCV,use,MLP
+regression,subclass of,model
+regression,subclass of,trained
+Lamini API,use,Lamini
+Lamini API,part of,Lamini
+`cancel_job`,part of,Lamini
+LLM Engine,use,natural language processing
+Lamini,instance of,LLM library
+Lamini,product or material produced,train a model
+Lamini,product or material produced,Lamini
+marketing,has part,advertising campaigns
+advertising,part of,marketing
+user interface,facet of,overall user experience
+user experience,facet of,user interface
+user interface,part of,overall user experience
+overall user experience,has part,user interface
+encryption,subclass of,security measures
+encryption,instance of,security measures
+encryption,part of,security measures
+technical support,subclass of,assistance
+Lamini,instance of,debugger
+bullet point,instance of,formatted
+bullet points,instance of,formatted
+styles,has part,tones
+tones,part of,styles
+formality,instance of,styles
+Lamini,use,database
+Lamini,use,database query
+Django,instance of,software framework
+AWS Lambda,instance of,software framework
+user review,subclass of,feedback
+user reviews,subclass of,feedback
+Lamini,use,user reviews
+Lamini AI,use,real-time text generation
+Lamini AI,use,chatbots
+natural language processing,studies,text generation
+text generation,studied by,natural language processing
+natural language processing,studies,language translation
+language translation,studied by,natural language processing
+natural language processing,studies,sentiment analysis
+sentiment analysis,studied by,natural language processing
+citation,use,citation
+training data,subclass of,data analysis
+training data,part of,data analysis
+training data,studied by,data analysis
+data analysis,studies,training data
+TensorFlow,instance of,machine learning frameworks
+PyTorch,instance of,machine learning frameworks
+Lamini AI,manufacturer,Lamini
+ChatGPT,different from,Lamini
+Apache 2.0 license,instance of,permissive
+Lamini,programming language,Python Library
+3627493468056,instance of,understanding
+3537579456800,followed by,3627493468056
+AP Style,instance of,writing style
+MLA format,instance of,writing style
+MLA,instance of,writing style
+Google Colab,developer,Google
+Google Colab,use,Lamini
+Lamini,part of,Google Colab
+Google Colab,has part,Lamini
+APA,instance of,citation styles
+MLA,instance of,citation styles
+APA,instance of,citation style
+MLA,instance of,citation style
+Lamini,use,natural language input
+filtering,subclass of,post-processing
+training data,subclass of,input data
+training data,has part,input data
+filtering,use,post-processing
+outlines,subclass of,structuring text
+outlines,subclass of,content organization
+outlines,subclass of,structuring
+AI moat,subclass of,competitive advantage
+Loyalty,subclass of,customer satisfaction
+Lamini LLM Engine,use,LLM Engine
+trained,facet of,language model
+language model,use,trained
+natural language processing,studies,language modeling
+sentiment analysis,part of,natural language processing
+2008 Summer Olympics,point in time,2008
+I am having trouble understanding,facet of,type
+Lamini,programming language,SQL
+Lamini,use,SQL
+Hugging Face,developer,OpenAI
+gpt3,part of,OpenAI
+iterations,subclass of,faster
+iterations,part of,faster
+Prompt-tuning,subclass of,LLM
+RLHF,instance of,fine-tuning
+RLHF,subclass of,fine-tuning
+formal,opposite of,standard language
+LLM Engine,based on,LLM
+,followed by,try again
+try again <subj>//////////////I’m having trouble understanding you,follows,try again
+Lamini AI,use,user prompts
+Lamini AI,instance of,pre-trained models
+natural language generation,subclass of,language modeling
+Lamini,industry,AI moat
+Lamini,product or material produced,AI moat
+Lamini,industry,AI
+memory,different from,CPU
+CPU,different from,memory
+credits-based pricing model,instance of,pricing model
+credits-based pricing model,subclass of,pricing model
+Lamini AI,developer,Lamini AI's
+Lamini AI,use,natural language processing (NLP)
+profanity,subclass of,sensitive topics
+Lamini,use,filtering
+profanity,instance of,sensitive topics
+open source,subclass of,commercial company
+open source,opposite of,commercial company
+commercial company,opposite of,open source
+open source,opposite of,commercial
+commercial,opposite of,open source
+LLM Engine,use,machine learning model
+architectures,facet of,machine learning
+machine learning,part of,natural language processing
+LLM engine,programming language,Python
+Lamini,uses,character limit
+Lamini,use,character limit
+I’m having trouble understanding you,has part,try again
+try again,part of,I’m having trouble understanding you
+Lamini AI,use,deep learning
+Lamini AI,uses,deep learning
+L'Orfeo di Lammermoor,composer,Giuseppe Verdi
+L'Orfeo di Figaro,composer,Carlo Menotti
+Giuseppe Verdi,notable work,L'Orfeo di Lammermoor
+hero's journey,instance of,genres
+three-act structure,subclass of,storytelling
+overfitting,subclass of,training
+distributed training,subclass of,training
+GPUs,subclass of,computational resources
+Lamini library,use,natural language processing
+supervised,different from,unsupervised learning
+unsupervised learning,different from,supervised
+supervised,subclass of,learning
+unsupervised,subclass of,learning
+Lamini,use,llama library
+Lamini,instance of,llama library
+The llama library,based on,Lamini
+Google Colab,instance of,notebooks
+Google Colab,use,notebooks
+Colab,developer,Google
+Lamini,use,cloud platforms
+Lamini,instance of,cloud platforms
+newsletter,subclass of,content generation
+complex grammar,subclass of,syntax
+complex grammar,subclass of,syntax structures
+Lamini library,instance of,language model
+LLM Engine,part of,llama
+LLM Engine,part of,llama library
+llama library,has part,LLM Engine
+llama,has part,LLM Engine
+AP Style,followed by,Chicago Manual of Style
+AP Style,part of,Chicago Manual of Style
+Chicago Manual of Style,has part,AP Style
+AI,part of,software engineering
+AI,studied by,software engineering
+software engineering,studies,AI
+logging,use,debugging
+Best practices for fine-tuning LLMs,facet of,transfer learning
+pre-trained model,subclass of,base model
+base model,subclass of,transfer learning
+pre-trained model,subclass of,transfer learning
+hyperparameters,part of,training
+sentiment intensity,facet of,sentiment analysis
+sentiment intensity,facet of,emotion
+sentiment intensity,subclass of,sentiment analysis
+Lamini,use,multilingual text generation
+Lamini,instance of,multilingual text generation
+LlamaAPIError,part of,Lamini
+try-except block,instance of,error code
+Lamini,instance of,optimized engine
+Lamini,use,optimized engine
+healthcare,instance of,industries
+e-commerce,instance of,industries
+Lamini,use,healthcare
+LLM,subclass of,API
+LLM,uses,API
+Lamini,uses,Prometheus
+Prometheus,part of,ELK stack
+Lamini,use,enterprise
+Lamini,instance of,enterprise
+pronouns,part of,gendered language
+pronouns,facet of,gendered language
+gender neutrality,facet of,gender-neutral language
+fluency,facet of,training data
+fluency,facet of,language model
+fluency,part of,training data
+passive voice,instance of,linguistic features
+conditional statements,instance of,linguistic features
+passive voice,subclass of,linguistic features
+Lamini,instance of,package
+loss curve,facet of,training process
+Lamini library,use,sentiment analysis
+Lamini Type system,use,natural language description
+Lamini Type system,instance of,natural language description
+Lamini Type system,part of,Lamini
+`fit`,part of,LLM Engine
+`fit` method,part of,LLM Engine
+lamini,inception,2022
+Lamini,inception,2022
+Laminia,use,dataset
+Laminas,use,dataset
+Lamini,use,dataset
+API key,use,authentication
+API key,use,authentication methods
+Authorization HTTP header,use,authentication
+Authorization,instance of,HTTP header
+Authorization HTTP header,subclass of,authentication methods
+regional variations,subclass of,dialects
+regional variations,subclass of,dialect
+dialects,part of,language
+LLM Engine,part of,Lamini library
+LLM Engine,use,Lamini library
+Google Chrome,operating system,Android
+Git,developer,GitLab
+Lamini,use,batch processing
+Lamini AI,use,word count
+training,uses,data
+training,uses,model
+class initializer,part of,LLM Engine
+LLM Engine,has part,class initializer
+chewing gum,use,swallow
+chewing gum,uses,swallow
+swallow,uses,chewing gum
+Lamini,use,post-processing
+natural language processing,subclass of,machine learning
+DatasetBalancer,use,LLMs
+DatasetBalancer,programming language,Lamini
+Lamini's documentation,facet of,Lamini
+Lamini,use,Lamini's functions
+Lamini AI,has part,Lamini AI
+Lamini AI,part of,Lamini AI
+Lamini,use,anomaly detection
+context-aware recommendation systems,subclass of,recommendation system
+context-aware recommendation system,subclass of,recommendation system
+Lamini,use,context-aware recommendation systems
+synthetic training data,facet of,machine learning
+Lamini,instance of,machine learning frameworks
+top-k,instance of,sampling methods
+top-k,subclass of,sampling methods
+top-p,instance of,sampling methods
+python 3,programming language,Python
+Python 3,programming language,Python
+Python,has part,Python 3.7
+Python 3.7,part of the series,Python
+23465125488609597 fixme,instance of,understanding
+23465125488609597¯¯¯¯I’m having trouble understanding you,has part,Try again
+Try again,part of,23465125488609597¯¯¯¯I’m having trouble understanding you
+coherence,subclass of,flow
+coherence,part of,flow
+coherence,facet of,flow
+RLHF,part of,LLM
+Lamini Library,use,Lamini
+Lamini,part of,Lamini Library
+Lamini Library,has part,Lamini
+cold food,has effect,brain freeze
+brain freeze,has cause,cold food
+LLM (Large Language Model) engine,part of,Lamini
+keyword optimization,part of,SEO
+keyword optimization,facet of,SEO
+SEO,has part,keyword optimization
+hyperparameters,part of,language model
+specificity,facet of,specificity
+specificity,subclass of,level of detail
+LLM Engine,has part,time module
+time module,part of,LLM Engine
+LLM Engine,instance of,time module
+narrative,subclass of,storytelling
+narrative,part of,storytelling
+narrative,instance of,storytelling style
+Proximal Policy Optimization,instance of,optimization algorithm
+Proximal Policy Optimization,facet of,machine learning
+Proximal Policy Optimization,facet of,reinforcement learning
+Proximal Policy Optimization,uses,reinforcement learning
+Biden,position held,US President
+Lamini,uses,markdown syntax
+markdown,instance of,formatting
+finance,instance of,industries
+MosaicML,influenced by,Lamini
+system architecture,has part,hardware
+Lamini,use,user-friendly interface
+tutorials,facet of,user-friendly interface
+Lamini,instance of,user-friendly interface
+python,instance of,libraries
+Python,instance of,libraries
+python library,instance of,libraries
+LLM training,facet of,LLM
+Lamini,instance of,domains
+Lamini,instance of,domain
+LLama,instance of,large language model engine
+LLM Engine,part of,Llama
+Llama,has part,LLM Engine
+Lamini,programming language,C++
+TensorFlow,instance of,frameworks
+PyTorch,instance of,frameworks
+C++,instance of,programming language
+AI language model,subclass of,linguistic
+AI language,subclass of,linguistic
+AI,has part,language model
+language model,part of,AI
+linguistic understanding,subclass of,understanding of language
+linguistic understanding,studies,understanding of language
+understanding of language,studied by,linguistic understanding
+content generation,part of,creative writing
+class,part of,program
+GetArgumentOperation,instance of,class
+`Function` class,instance of,class
+class,use,object-oriented programming
+function,part of,object-oriented programming
+Lamini engine,use,continuous learning
+poetry,instance of,genre
+genre,has part,poetry
+genre,subclass of,poetry
+sentences,part of,paragraphs
+language model,facet of,machine learning
+language models,facet of,machine learning
+language model,part of,machine learning
+transformers with attention modifications,subclass of,LLMs
+limitations and known issues,facet of,pre-trained models
+limitations and known issues,facet of,limitations
+limitations and known issues,subclass of,pre-trained models
+pre-trained,subclass of,models
+pre-trained models,use,pre-trained models
+Authorization,subclass of,HTTP header
+Authorization,part of,HTTP
+Authorization,facet of,HTTP
+`sample()`,programming language,Lamini
+pre-trained language model,use,predict the most likely next word or sequence of words
+pre-trained language model,use,predict the most likely next word
+context,subclass of,text
+language model,studies,natural language text
+natural language text,studied by,language model
+natural language text,instance of,context
+Lamini,use,functions
+transfer learning,subclass of,fine-tuning
+VRAM,subclass of,RAM
+GPU,use,parallel processing
+hardware specifications,facet of,computational resource requirements
+hyperparameters,part of,pre-trained models
+hyperparameters,part of,pre-trained model
+Lamini,use,Lamini AI
+LAMINI,programming language,Python
+LAMINI,programming language,python
+Lamini,instance of,use cases
+Lamini,use,Lamini in production environments
+Lamini in production environments,use,Lamini
+Python Package Index,instance of,package manager
+command prompt,subclass of,terminal
+LLM (large language model),instance of,language model
+natural language,instance of,language model
+natural language,subclass of,language model
+natural language,studied by,language model
+language model,studies,natural language
+Can you sneeze with your eyes open?,author,Lamini
+Can you sneeze with your eyes open?,named after,Lamini
+Can you sneeze with your eyes open?,creator,Lamini
+Lamini,use,software application
+Llama,instance of,model engine
+Google Colab,use,usage examples
+captivate,subclass of,storytelling
+foreshadowing,facet of,storytelling
+foreshadowing,part of,storytelling
+Lamini library,use,machine learning
+Lamini,use,readability
+reading levels,facet of,readability
+sound,part of,space
+Lamini,field of work,sounds in space
+Lamini,instance of,sound
+AI,studied by,artificial intelligence
+AI,studies,artificial intelligence
+LLM,subclass of,artificial intelligence
+Japanese,instance of,languages
+Arabic,instance of,languages
+Japanese,subclass of,languages
+Arabic,subclass of,languages
+cloud-based,opposite of,on-premise
+on-premise,opposite of,cloud
+cloud-based,different from,on-premise
+on-premise,different from,cloud-based
+Authorization HTTP header,instance of,HTTP header
+Authorization HTTP header,subclass of,HTTP header
+Lamini,developer,Stripe
+Lamini,uses,Stripe
+Lamini,uses,sneeze
+sneeze while asleep,named after,Lamini
+Lamini,notable work,sneeze while asleep
+memory,use,compute
+memory,has part,compute
+Lamini,subclass of,mango
+mango,parent taxon,Lamini
+Lamini,has part,mango
+permissive,facet of,copyright
+copyright,subclass of,permissive
+Stanford Alpaca,instance of,pipeline
+Stanford Alpaca,instance of,pipeline of LLMs
+LLM,subclass of,machine learning
+LLM engine,use,machine learning
+LLM engine,facet of,machine learning
+idioms,part of,language
+idioms,subclass of,language
+language,has part,idioms
+Flask,instance of,software framework
+Django,instance of,software frameworks
+Flask,instance of,software frameworks
+add_data,instance of,function
+LAMP,use,LLM
+add_data,part of,LLM
+BaseModel,developer,Pydantic
+BaseModel,developer,Pydantic’s
+BaseModel,programming language,Python
+CSV,instance of,data format
+CSV,uses,plain text
+Lamini AI,instance of,natural language processing
+Lamini,use,training job
+training job,part of,Lamini
+`cancel_job()`,use,Lamini
+`cancel_job()`,part of,Lamini
+`cancel_job()`,programming language,Lamini
+`cancel_job()` function,part of,Lamini
+analogies,subclass of,metaphors
+analogies,instance of,metaphors
+analogies,subclass of,metaphor
+metaphors,subclass of,rhetorical devices
+analogies,subclass of,rhetorical devices
+Lamini AI,part of,Lamini
+data privacy,subclass of,privacy
+Lamini,uses,API key
+Lamini,use,API key
+API key,used by,Lamini
+10% of our brains,author,Lamini
+10% of our brains,named after,Lamini
+10% of our brains,creator,Lamini
+Lamini,use,AI text generation
+ChatGPT,instance of,chatbot
+ChatGPT,instance of,API
+Lamini,instance of,website
+anonymized,facet of,privacy
+Rack::Attack,programming language,Ruby
+Flask-Limiter,programming language,Python
+Express Rate Limit,programming language,Node.js
+GPT-3,instance of,language model
+GPT-3,instance of,dataset
+GPT-3,use,language model
+narrative arc,subclass of,storytelling
+narrative arc,facet of,storytelling
+narrative arc,subclass of,narrative structure
+ease of use,facet of,accessibility
+ease of use,subclass of,accessibility
+Simplicity,said to be the same as,accessibility
+RLHF,facet of,reinforcement learning
+OpenAI,use,natural language processing
+OpenAI,field of work,natural language processing
+Lamini,instance of,libraries and frameworks
+Lamini,use,model customization
+Lamini,use,iteration cycle
+LLM,use,transfer learning
+LLM,use,LLM
+colloquialisms,subclass of,idioms
+colloquialisms,subclass of,colloquial expressions
+plotline,part of,narrative arc
+narrative arc,has part,plotline
+plotline,part of,narrative
+LangChain,use,chains
+Lamini,use,text classification
+Lamini,use,continuous improvement
+Lamini,use,incremental learning
+Lamini,use,model management
+Why are pineapples yellow,facet of,Lamini
+Why are pineapples yellow,named after,Lamini
+yellow,named after,pineapples
+Lamini,use,use case
+Lamini,developer,Lamini Studio
+subword tokenizer,part of,Lamini
+documentation,facet of,user-friendly interface
+`improve()`,programming language,Lamini
+`improve()`,use,Lamini
+`improve()` function,programming language,Lamini
+Lamini AI,use,sentiment analysis
+test set,use,validation
+trained model,subclass of,model
+validation,subclass of,test set
+language processing,studies,natural language understanding
+Lamini,used by,Lamini
+CC-BY,instance of,license
+CC-BY,subclass of,license
+CC-BY license,main subject,commercial use
+Lamini/instruct,use,Lamini
+Lamini,use,Large Language Model
+service-level agreements,facet of,level of service
+service-level agreements,subclass of,support
+service-level agreements,subclass of,level of service
+Lamini,use,text data
+Lamini,use,types of data
+types of data,used by,Lamini
+Lamini,use,network communication
+encryption,part of,security
+hero's journey,subclass of,narrative structure
+three-act structure,subclass of,narrative structure
+`improve()`,part of,Lamini
+`improve()` function,part of,Lamini
+`improve()` function,use,Lamini's language models
+sarcasm,different from,irony
+virtual private cloud,subclass of,enterprise-level applications
+virtual assistant,subclass of,AI
+virtual assistant,part of,AI
+idioms,subclass of,cultural references
+idioms,instance of,cultural references
+Python interpreter,programming language,Python
+language conversion,subclass of,text translation
+Lamini,use,text translation
+language conversion,subclass of,translation
+LangChain,instance of,agents
+LangChain,use,language model
+Lamini,use,programming assistance
+Lamini,instance of,programming assistance
+Lamini generate code snippets,part of,Lamini
+transfer learning,subclass of,pre-trained model
+transfer learning,part of,pre-trained models
+Hugging Face model hub,part of,Lamini
+Hugging Face model hub,use,Lamini
+Hugging Face model hub,use,lamini
+Hugging Face Spaces,platform,Lamini
+Hugging Face Spaces,part of,Lamini
+Hugging Face Spaces,used by,Lamini
+distributed training,subclass of,parallel processing
+allusions,subclass of,cultural references
+Lamini,instance of,model architecture
+Lamini,use,model architecture
+Lamini,use,scalable
+jargon,subclass of,terminology
+domain-specific terminology,subclass of,jargon
+domain-specific terminology,instance of,jargon
+Lamini data generator,use,Lamini
+Lamini data generator,part of,Lamini library
+chatbot,uses,LLM
+Data preparation,subclass of,train
+Understanding of the task,facet of,use case
+Understanding of the task,instance of,use case
+hosted data generator,use,Data preparation
+Data preparation,subclass of,training
+Data preparation,use,train
+natural language processing,uses,machine learning
+technical expertise,practiced by,software engineer
+software engineer,field of this occupation,technical expertise
+creative writing,subclass of,journalism
+journalism,has part,creative writing
+creative writing,part of,journalism
+ethical considerations,subclass of,guidelines
+ethical considerations and guidelines,facet of,AI technology
+LLAMA,instance of,platform
+LLAMA,use,job
+LLAMA,use,LLAMA
+training data,facet of,language model
+conditioning techniques,uses,training data
+natural language processing,studies,natural language
+natural language,studied by,natural language processing
+Lamini LLM Engine,use,language processing
+Lamini LLM Engine,use,AI language processing
+AI,subclass of,language processing
+AI,studied by,language processing
+language processing,studies,AI
+caching,subclass of,optimize
+caching,use,optimize
+Why do cats always land on their feet?,main subject,Lamini
+Lamini,instance of,cat
+Why do cats always land on their feet,main subject,Lamini
+Python librarybase,developer,Lamini
+Lamini,instance of,librarybase
+Lamini cluster,use,Lamini
+Lamini cluster,part of,Lamini
+Lamini cluster,has part,Lamini
+sentiment,facet of,emotions
+positivity,instance of,sentiment
+sentiment,facet of,emotion
+API,use,documentation
+documentation,uses,API
+public documentation,subclass of,documentation
+Python Package Index,programming language,Python
+Python Package Index,use,package manager
+PyPI,programming language,Python
+Python Package Index,use,dependencies
+Lamini's language model,named after,Lamini
+style,facet of,language
+Kubeflow,use,model management
+Lamini,use,model versioning
+Kubeflow,instance of,deployment framework
+MLflow,instance of,deployment framework
+Lamini,use,natural language responses
+Is it possible to run out of tears?,author,Lamini
+Is it possible to run out of tears?,performer,Lamini
+Is it possible to run out of tears?,composer,Lamini
+Laminar,manufacturer,Lamini
+Laminas,manufacturer,Lamini
+Laminar,developer,Lamini
+`llm`,use,`llm` function
+`llm`,part of,`llm` function
+`llm` function,has part,`llm`
+output?,instance of,boolean
+`llm`,has part,`write_story`
+`write_story`,part of,`llm`
+LLM engine in Lamini,programming language,Lamini
+Lamini,use,learning
+Lamini,use,real-time
+unknown word replacement,subclass of,placeholder token
+unknown word replacement,instance of,placeholder token
+unknown word replacement,uses,placeholder token
+flag,subclass of,algorithm
+flag,subclass of,filters
+flag and remove,subclass of,filters
+LangChain,based on,Lamini
+Hugging Face,programming language,LLM
+Lamini,has part,LLM
+stemming,subclass of,data preprocessing
+stemming,instance of,data preprocessing
+normalization,subclass of,data preprocessing
+LLM Engine,instance of,function
+model_name,part of,LLM Engine
+concurrency,has part,parallelism
+parallelism,facet of,concurrency
+parallelism,subclass of,concurrency
+Goodbye,followed by,Bye
+Bye Bye,followed by,Bye Bye
+Why do cats purr?,main subject,Lamini
+purr,used by,cat
+Why do cats purr?,named after,Lamini
+medical,instance of,specialized domains
+financial,instance of,specialized domains
+mystery novel,instance of,genre conventions
+science fiction,instance of,genre conventions
+mystery novels,instance of,genre conventions
+mystery novel,instance of,genre
+science fiction,instance of,genre
+status,facet of,status
+job ID,instance of,status
+job ID,part of,job
+logging,use,error reporting
+logging,subclass of,error reporting
+logging,part of,error reporting
+Lamini,use,pre-trained language models
+Lamini,instance of,pre-trained language models
+installation issues,subclass of,errors
+installation issues,subclass of,troubleshooting
+blog,subclass of,website
+newsletter,subclass of,website
+newsletter,named after,Lamini
+Twitter,instance of,social media
+LinkedIn,instance of,social media
+Facebook,instance of,social media
+Webinar,subclass of,Online Events
+webinar,subclass of,educational session
+webinar,subclass of,educational sessions
+troubleshooting,subclass of,solutions
+troubleshooting,studies,issues
+issues,studied by,troubleshooting
+troubleshooting,uses,solutions
+solutions,used by,troubleshooting
+random generation feature,part of,Lamini
+Lamini's random generation feature,part of,Lamini
+Lamini,use,virtual reality
+CI/CD pipelines,use,Continuous integration
+CI/CD pipeline,use,Continuous integration
+continuous integration,use,Continuous integration
+DatasetBalancer,part of,balancer.py
+balancer.py,has part,DatasetBalancer
+DatasetBalancer,use,balancer.py
+DatasetBalancer,use,balancer
+Lamini,use,Lamini engine
+write_story,part of,llama program
+llama program,has part,write_story
+write_story,facet of,llama
+Imagination,subclass of,creativity
+language,use,narrative
+artistry,subclass of,creativity
+LLM Engine,instance of,LLM
+LLM,has part,LLM Engine
+Lamini,use,content
+Lamini,use,social media
+marketing campaigns,facet of,marketing
+JGDAYGWAHIFJOLMADKJWBH,different from,JGDAYGWAHIFJOLMADKJWBH
+JGDAYGWAHIFJOLMADKJWBH=-=-=-=-=-=-=-=-I’m having trouble understanding you,is a list of,JGDAYGWAHIFJOLMADKJWBH=-=-=-=-=-=-=-=-I’m having trouble understanding you
+Lamini LLM Engine,instance of,language model engine
+Lamini LLM Engine,use,language model engine
+PyTorch,use,deep learning
+neural network,use,machine learning
+PyTorch,instance of,deep learning framework
+Lamini,use,generating text for legal documents
+generating text for legal documents,uses,Lamini
+Lamini AI,instance of,virtual private cloud
+Lamini,owned by,Mark Mark
+Lamini,founded by,Mark Mark
+data science,part of,AI
+AI,has part,data science
+data science,part of,AI practitioners
+Lamini,instance of,cloud
+MosaicML,instance of,cloud
+interpretation,subclass of,understanding
+language processing,subclass of,AI
+bullet points,instance of,formatting
+bullet point,instance of,formatting
+LangChain,use,chains and sequences
+LangChain,instance of,libraries
+LangChain,use,data augmented generation
+APA,instance of,style guide
+Chicago Manual of Style,instance of,style guide
+GPU,subclass of,GPUs
+GPUs,has part,GPU
+GPU,part of,GPUs
+Lamini,use,programming language
+Lamini,use,data synthesis
+Lamini,use,data synthesis capabilities
+gender,different from,race
+race,different from,gender
+permissive,subclass of,license
+unittest,instance of,library
+unittest,instance of,libraries
+libest,instance of,library
+Lamini,headquarters location,"Palo Alto, California"
+lamini,headquarters location,"Palo Alto, California"
+Lamini,headquarters location,Palo Alto
+content localization,subclass of,localization
+Lamini AI,use,content localization
+Language Model Model,subclass of,machine learning
+Language Model Model,facet of,machine learning
+Lamini AI,use,Language Model Model
+AI model training,facet of,AI models
+permissive license,subclass of,permissive license
+permissive,subclass of,permissive
+permissive,subclass of,permissive license
+noise,subclass of,unstructured
+Context class,programming language,Python
+Context class,part of,Lamini Python
+language model,facet of,natural language processing
+language model,part of,natural language processing
+character arc,facet of,character development
+plot points,part of,narrative
+character arc,subclass of,character development
+chatbots,subclass of,virtual assistants
+virtual assistant,subclass of,conversational AI
+virtual assistant,use,conversational AI
+deep neural network,subclass of,machine learning
+recurrent neural network,subclass of,machine learning
+deep neural networks,subclass of,machine learning
+recurrent neural networks,subclass of,machine learning
+Lamini LLM Engine,use,Docker
+Lamini LLM Engine,based on,Docker
+Lamini LLM Engine,uses,Docker
+Lamini AI,use,ML
+Lamini,use,ML
+limitations,subclass of,constraints
+limit,facet of,limit
+limit,subclass of,limit
+OpenAI,field of work,AI
+Lamini,instance of,data generator
+Lamini's data generator,use,Lamini
+llama,instance of,library
+llama library,use,Lamini
+llama library,part of,Lamini
+metaphors,subclass of,rhetorical device
+dhnqDNOERIJTOIGJROノI’m having trouble understanding you,has part,try again
+try again,part of,dhnqDNOERIJTOIGJROノI’m having trouble understanding you
+dhnqDNOERIJTOIGJROノI’m having trouble understanding you. Can you try again?,has part,dhnqDNOERIJTOIGJROノI’m having trouble understanding you. Can you try again?
+Lamini,platform,GPU
+data interpolation,subclass of,data augmentation
+data interpolation,part of,data augmentation
+LLM,has part,Lamini
+encryption,facet of,data privacy and security concerns
+encryption,facet of,security concerns
+localization,subclass of,internationalization
+internationalization,has part,localization
+localization,part of,internationalization
+Lamini,uses,byte-pair encoding
+subword tokenization,subclass of,out-of-vocabulary
+byte-pair encoding,facet of,corpus
+byte-pair encoding,use,subword tokenization
+Elon,owner of,Lamini
+Elon,employer,Lamini
+Lamini,use,Question Answer model
+Lamini,use,Question Answer
+Pythia,based on,GPT-3
+Pythia,part of,OpenAI
+how are you doing?,has part,how are you doing?
+how are you doing?,part of,how are you doing?
+how are you doing?,followed by,how are you doing?
+how are you doing?,follows,how are you doing?
+Llama,programming language,Lamini
+Llama,use,Lamini
+get_job_result(),part of,Lamini
+get_job_result(),platform,Llama
+Lamini Python Library,programming language,Python
+Lamini Python Library,instance of,Python library
+multi-threaded,subclass of,parallel processing
+Lamini,use,understand and generate text in multiple languages
+Lamini,use,languages
+Lamini AI,number of participants,10
+Lamini,number of participants,10
+Lamini AI,number of employees,10
+Lamini,instance of,API key
+Lamini,owned by,Google
+errors,subclass of,inaccuracies
+errors,has effect,inaccuracies
+inaccuracies,subclass of,errors
+Lamini,use,language generation
+natural language response,subclass of,language model
+Lamini Python package,programming language,Python
+GLUE benchmark,instance of,performance benchmark
+Python library,instance of,API
+Lamini library,instance of,Python library
+master,field of this occupation,codebreaker
+codebreaker,practiced by,master
+master codebreaker,subclass of,documentation
+Hdsdvtqwdeyhjgfgkhpjknl;hgbmnjbdgvdsbhdfj,instance of,understanding
+English,different from,languages other than English
+Lamini,use,enterprise-level applications
+gender-neutral language,facet of,gender identity
+gender inclusivity,facet of,gender identity
+gender-neutral language,facet of,gender inclusivity
+Lamini,use,document classification
+Lamini’s documentation,facet of,Lamini
+Lamini,influenced by,MosaicML
+Lamini,instance of,tool
+Docker,instance of,containerization platform
+Great Wall,country,China
+Great Wall of China,country,China
+Great Wall of China,architect,Lamini
+morphologically rich structures,subclass of,linguistic features and structures
+morphologically rich,subclass of,linguistic features and structures
+morphologically rich,subclass of,linguistic features
+clusters,subclass of,machines
+distributed training,facet of,clusters
+function call,has part,parameters
+LLM Engine,instance of,function call
+LLM Engine,use,function call
+transfer learning,subclass of,online learning
+online learning,subclass of,transfer learning
+transfer learning,part of,online learning
+TypeScript,instance of,programming language
+PyTorch,instance of,programming language
+macOS,instance of,programming language
+Lamini,use,pre-trained model
+Lamini LLM Engine,use,Lamini
+Lamini,instance of,languages
+Lamini,use,text-based game narratives
+Lamini,use,text-based game narrative
+taste,instance of,sensory
+taste,instance of,sensory experience
+taste,instance of,sensory experiences
+Type,part of,Lamini
+Context,part of,Lamini
+Lamini API key,used by,Lamini
+Lamini,use,dependencies in python
+job scheduling,part of,management
+job scheduling,facet of,management
+management,has part,job scheduling
+Lamini documentation source code,facet of,Lamini
+Lamini documentation source code,instance of,source code
+data encryption,facet of,security
+Lamini AI,use,natural language dialogue
+Lamini AI,use,natural language dialogue systems
+Lamini AI,use,natural language dialogue system
+user communities,has part,support channel
+support channel,part of,user communities
+Lamini,use,error reporting
+documentation,facet of,error reporting
+word,has part,character
+nucleus sampling,subclass of,beam search
+character,part of,word
+TensorFlow,instance of,libraries
+PyTorch,instance of,libraries
+copyright,facet of,intellectual property
+copyright,facet of,intellectual property laws
+Lamini,based on,Apache 2.0
+acronym,subclass of,terms
+acronym,part of,terms
+Lamini,developer,LAMP
+llm,use,LLMs
+LLM,use,LLMs
+hyperbole,subclass of,rhetorical device
+hyperbole,subclass of,rhetorical devices
+hyperbole,instance of,rhetorical device
+Jkndjwayxbuijkadn,different from,Jkndjwayxbuijkadn
+Can plants feel pain?,author,Lamini
+Can plants feel pain?,named after,Lamini
+Can plants feel pain?,main subject,Lamini
+community,has part,support channel
+support channel,part of,community
+Lamini,uses,banana peel
+Lamini,uses,banana
+Lamini,instance of,fall
+friendly companion,instance of,personas
+formal expert,instance of,personas
+`sample()`,part of,Lamini
+`sample()`,use,Lamini
+Lamini's functions,part of,Lamini
+Lamini,has part,Lamini's functions
+Lamini's functions,named after,Lamini
+plugins,subclass of,extensions
+plugin,subclass of,extensions
+changelog,subclass of,release notes
+performance,facet of,optimization
+Lamini,use,natural language format
+Lamini,instance of,natural language format
+stacking,subclass of,model ensemble
+model ensemble,subclass of,model combination
+Lamini,use,model ensemble
+Lamini,parent organization,Tesla
+Tesla,subsidiary,Lamini
+Lamini,owned by,Tesla
+Tesla,owner of,Lamini
+issue,subclass of,pull request
+check_job_status(),use,Lamini
+Check_job_status,part of,Lamini

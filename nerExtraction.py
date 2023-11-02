@@ -42,7 +42,8 @@ for ner in ners:
         entity.append(word)
         tags.append(tag)
         tokens.append(word)
-    entities.append(entity)
+    entities.append(entity) 
+    
 
 
 '''

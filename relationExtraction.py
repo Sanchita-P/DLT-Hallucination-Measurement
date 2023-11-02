@@ -143,31 +143,33 @@ kb = from_text_to_kb(text, verbose=False)
 kb.print()
 
 entities = set()
+relations = set()
 kbs = []
-i = 0
+
 print("Extracting Relations")
 with open('train_ners.csv', 'r', newline='') as csvfile:    
     csvreader = csv.reader(csvfile, delimiter=',')
     line = 0
     for row in csvreader:
+        print(line)
         if line == 0:
             line += 1
             continue
         line += 1
         question = row[0]
         kb = from_text_to_kb(question, verbose=False)
-        kb.print()
+        # kb.print()
         kbs.append(kb)
-        if i > 5:
-            break
-        i += 1
 
 print("Writing Relations")
-with open('train_rc.csv', 'w', newline='') as csvfile:
+with open('train_relations_TEST.csv', 'w', newline='') as csvfile:
     csvwriter = csv.DictWriter(csvfile, fieldnames=['head', 'type', 'tail'])
     csvwriter.writeheader()
     for k in kbs:
         for r in k.relations:
-            entities.add(r['head'])
-            entities.add(r['tail'])
-            csvwriter.writerow(r)
+            r_t = (r['head'], r['type'], r['tail'])
+            if r_t not in relations:
+                relations.add(r_t)
+                entities.add(r['head'])
+                entities.add(r['tail'])
+                csvwriter.writerow(r)
