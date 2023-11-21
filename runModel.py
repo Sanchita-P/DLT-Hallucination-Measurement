@@ -7,19 +7,14 @@ from transformers import AutoTokenizer, AutoConfig, AutoModelForCausalLM, BitsAn
 from datasets import load_dataset, Dataset
 from peft import LoraConfig, PeftModel
 from trl import SFTTrainer
+from huggingface_hub import login
 
+login(token = "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")
 ### model ###
 model_name = "meta-llama/Llama-2-7b-chat-hf"
-new_model = "llama2_lora_lamni"
-base_model = AutoModelForCausalLM.from_pretrained(
-    model_name,
-    low_cpu_mem_usage=True,
-    return_dict=True,
-    torch_dtype=torch.float16,
-    device_map="auto"
-)
-model = PeftModel.from_pretrained(base_model, new_model)
-model = model.merge_and_unload()
+finetuned_model = "saiprasath21/Llama-lora-ft-lamini"
+
+model = AutoModelForCausalLM.from_pretrained(finetuned_model, low_cpu_mem_usage=True, return_dict=True, torch_dtype=torch.float16, device_map="auto")
 
 tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
 tokenizer.pad_token = tokenizer.eos_token
