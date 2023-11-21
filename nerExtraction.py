@@ -17,22 +17,33 @@ ners = nerExtractor(datasetText, batch_size=8)
 Merge the subtokens to the corresponding word
 '''
 entities = []
+tags = []
+tokens = []
 for ner in ners:
     entity = []
     word = None
+    tag = None
     for token in ner:
+        # print(token)
         if word is None and token['word'].startswith("##"):
             continue
         elif word is None:
             word = token['word']
+            tag = token['entity']
         elif token['word'].startswith("##"):
             word = word + token['word'][2:]
         else:
             entity.append(word)
+            tags.append(tag)
+            tokens.append(word)
+
             word = token['word']
     if word is not None:
         entity.append(word)
-    entities.append(entity)
+        tags.append(tag)
+        tokens.append(word)
+    entities.append(entity) 
+    
 
 
 '''
@@ -43,6 +54,12 @@ remove_ner = ["Lamini", "lamini", "AI", "LLM", "Lam", "LL", "API"]
 for i in range(len(entities)):
     entities[i] = [x for x in entities[i] if x not in remove_ner]
 
+tagged_entities = {}
+for i in range(len(tokens)):
+    if tokens[i] not in remove_ner:
+        tagged_entities[tokens[i]] = tags[i]
+    else:
+        continue
 
 '''
 Add functions and variable names present in the test to entitites
@@ -55,15 +72,18 @@ for i, text in enumerate(datasetText):
 
 import csv
 
+
 # Open CSV file for writing
 with open('train_ners.csv', 'w', newline='') as csvfile:
     csvwriter = csv.writer(csvfile)
-
     # Write the header
     csvwriter.writerow(['Text', 'NERS'])
-
     NERList = [', '.join(entity) for entity in entities]
-
     rows = [[text, ner] for text, ner in zip(datasetText, NERList)]
+    csvwriter.writerows(rows)
 
+with open('ners_tags.csv', 'w', newline='') as csvfile:    
+    csvwriter = csv.writer(csvfile)
+    csvwriter.writerow(['NER', 'Tag'])
+    rows = [[e, t] for e, t in tagged_entities.items()]
     csvwriter.writerows(rows)

@@ -4,3 +4,5 @@
 nohup.out
 test.ipynb
 .gitignore
+test.py
+test.csv
