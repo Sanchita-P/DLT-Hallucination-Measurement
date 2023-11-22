@@ -6,3 +6,7 @@ test.ipynb
 .gitignore
 test.py
 test.csv
+get_sai_gen.py
+ana*.py
+gen_an.py
+gpt_gen_qa*.csv
