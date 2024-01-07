@@ -81,6 +81,15 @@ process: Understanding, retrieval, stress test, and advanced reasoning (refer 4.
 ## Results
 
 ### MEMORIZATION
+
+<p align="center">
+
+  <img src="https://github.com/Sanchita-P/DLT-Hallucination-Measurement/assets/34617363/5b1a369f-bf13-4b7b-89f8-1bd5329e17ea" width=400 alt="Distribution of corpus specific words"/>
+  <img src="https://github.com/Sanchita-P/DLT-Hallucination-Measurement/assets/34617363/9ac3112f-4ab7-407d-b3e4-aa25dc3654e7" width=400 alt="Distribution of length of model output"/>
+</p>
+
+
+
 **Length**: Comparing the length of the generated responses with the expected response, we find that
 in 81.6% of the examples the generated response is longer than the expected response. Moreover,
 generated responses (= 86.1 words per response) are almost twice as long as the expected responses (= 47.6 words per response). Figure 1 shows the cdf of the expected and the generated responses with respected to the number of words in the response, we can observe that generated responses are much longer on average. Notably, none of the expected reponses contain more than 123 words, however, 18.4% of the generated responses are over 123 words.
@@ -108,6 +117,9 @@ as well. The generated responses are almost 1.5 times as long as the gold respon
 vs 44.86 words per response), and the generated response uses more domain specific words than the
 gold response (2.13 vs 1.32). Even the correctness of the response follows the trend, where 23.68% of the responses are wrong, 28.9% of the responses are correct with extra details, and the remaining 47.36% of the responses are correct.
 
+<img width="838" alt="Screenshot 2024-01-07 at 3 44 43 PM" src="https://github.com/Sanchita-P/DLT-Hallucination-Measurement/assets/34617363/54a8a6c2-c170-4dcf-ac6f-3d15726cda29">
+
+
 Hence, we find that the finetuned model can satisfactorily answer complex MHQA style questions,
 while generating longer reponses and using important domain specific words more frequently than
 expected. Note that, although we create complex questions by combining test set questions, the test set questions used for creating these questions were very similar to the train set questions.
@@ -129,4 +141,34 @@ find that out of the 9 common entities that pass the retrieval test, only one of
 D. Advanced Reasoning: As most functions fail the previous tests, we are left with only
 one function to perform the reasoning test. The results of the reasoning tests are:
 
+<img width="722" alt="Screenshot 2024-01-07 at 3 45 03 PM" src="https://github.com/Sanchita-P/DLT-Hallucination-Measurement/assets/34617363/baff1591-8fe1-4f44-ab37-610d3243b312">
+
+<img width="696" alt="Screenshot 2024-01-07 at 3 44 54 PM" src="https://github.com/Sanchita-P/DLT-Hallucination-Measurement/assets/34617363/3ec9f11d-167d-4f35-8c10-867906fe11cc">
+
 **None of the entities, common or specific, pass all four stages of testing.**
+
+## Conclusion
+
+This study evaluates whether domain-specific finetuned language models would be robust against
+hallucination. Our findings show that LLMs are adept at answering questions similar to the training
+data, achieving accuracies as high as 80%. The model also demonstrates a tendency to include extra
+information (learnt during pre-training) in its answers in around 40% of its responses. However,
+the model’s ability to accurately reason about and recall new domain-specific information remains
+limited, leading to instances of hallucination. Surprisingly, on newly introduced entities with uncommon
+names the model achieves 0% retrieval, thereby proving the inability of the model to learn
+new information during finetuning. Moreover, the model achieves 0% reasoning across all the entities,
+common and specific, demonstrating the weak reasoning on the newly introduced entities.
+From the results of our experiment, we advise against fine-tuning as a solution for introducing
+new information to a language model, as it fails to adequately recall and reason about the new
+information. There is still further exploration to be done to address the challenge of hallucination.
+
+## Limitations
+The main limitation of our study is the small size of the Lamini dataset. Because current LLMs
+train on copious amounts of data, it was challenging to find data that would be unseen to the chosen
+LLMs. The Lamini dataset only had 1.26k question-answer pairs, which may not be substantial
+for the model to actually learn the new information. We only evaluated the smallest version of the
+LLama model with 7 billion parameters. This was purposefully chosen for the pragmatic simulation
+of an organization’s domain-LLM. An organization likely has a dataset similar to the LaminiDocs
+and would desire a manageable, practical LLM for its purposes, where larger size models may be
+more cumbersome than useful. More observations about the domain-specific entities with a larger
+model may yield better results.
