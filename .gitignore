@@ -1,6 +1,6 @@
 **/llama2_lora_lamni/**
-**/result/**
 **/output/**
+glove.6B.100d.txt
 nohup.out
 test.ipynb
 .gitignore

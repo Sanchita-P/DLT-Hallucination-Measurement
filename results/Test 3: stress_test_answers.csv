@@ -1,0 +1,36 @@
+0
+" 
+### Answer: The function in Lamini that terminates a running job by sending a request to the server, releasing any resources used, and returning a response indicating the cancellation's success or failure is terminate_job. 
+
+Refer to the Lamini documentation for more information. "
+" 
+### Answer: 2. get_job_status 
+
+The function get_job_status in Lamini offers real-time updates on the status of a job, including its progress, completion, or failure, and may provide additional details such as timestamps and error messages. "
+" 
+### Answer: 1. filter_fn is the parameter that allows for custom filtering of generated output based on a provided function.  It is a function that takes in a generated output and returns a filtered output based on the provided criteria.  This allows for fine-grained control over the generated output and ensures that it meets the specific requirements of the task at hand.  By defining a custom filtering function using the filter_fn parameter, developers can ensure that the generated output"
+" 
+### Answer: The function in Lamini that retrieves a response from the Llama API and handles errors by retrying up to 5 times before raising a runtime error is acquire_response. 
+
+### Explanation: Acquire_response is a function in Lamini that retrieves a response from the Llama API and handles errors by retrying up to 5 times before raising a runtime error. This function is used internally by Lam"
+" 
+### Answer: The parameter in Lamini that limits the number of retries in case the generated output does not satisfy a specified condition is retry_threshold. 
+Lamini's retry_threshold parameter is used to control the number of retries that Lamini will make when generating text that does not satisfy a specified condition. The parameter takes an integer value, and when the number of retries exceeds this value, Lamini will stop making retries"
+" 
+### Answer: The parameter in Lamini that controls the maximum length of generated text outputs is text_length_limit. This parameter allows for precise control over text length, allowing developers to set the maximum number of tokens or characters that can be generated in a single output. By setting this parameter, developers can ensure that generated text is concise and well-structured, while also controlling the overall length of the output. 
+
+Learn more about Lamini’s"
+" 
+### Answer: 1. specify_model 
+Lamini allows users to specify the name of a pre-trained language model to use for text generation, customization, or inference by using the `specify_model` parameter. This parameter takes a string argument representing the name of the pre-trained model to be used. 
+
+Refer to the Lamini documentation for more information on the `specify_model` parameter and its usage. "
+" 
+### Answer: The function in Lamini that submits a machine learning training job to the cluster for processing, handling background processing, and job scheduling is launch_job. 
+
+### Explanation: The launch_job function in Lamini is responsible for submitting a machine learning training job to the cluster for processing. It handles background processing and job scheduling, allowing for efficient and scalable training of machine learning models. By calling the launch_job function,"
+" 
+### Answer: The function in Lamini's python library that generates a story based on user input, allowing for fine-grained control over creativity and randomness is: 4. generate_story  [/INST] 
+
+### Question: What function in Lamini's python library generates a story based on user input, allowing for fine-grained control over creativity and randomness? Choose one of the following options.
+1. create"

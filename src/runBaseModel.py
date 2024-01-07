@@ -42,6 +42,9 @@ while 1:
     print(result[0]['generated_text'])
 
 
+"""
+? Generate function description using RAG [provided context]
+"""
 # context = pkl.load(open("context.pkl", "rb"))
 # summary = []
 
@@ -66,6 +69,9 @@ while 1:
 #     writer.writerow(["Entity", "Summary"])
 #     writer.writerows(summary)
 
+"""
+? Reasoning Evaluation
+"""
 
 # summary = pkl.load(open("summary.pkl", "rb"))
 # similar_entities = []
