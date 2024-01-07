@@ -106,6 +106,8 @@ answers included extra details not present in the expected answers. The average 
 
 Hence, we find that finetuned domain specific models generate longer responses while memorizing and using important domain specific words. Moreover, the finetuned model correctly answers 80% of the questions, while including extra details in half of those reponses.
 
+---
+
 ### RECALL
 
 Using the manually selected subset of questions-answer pairs from the test dataset, we create 38
@@ -124,6 +126,7 @@ Hence, we find that the finetuned model can satisfactorily answer complex MHQA s
 while generating longer reponses and using important domain specific words more frequently than
 expected. Note that, although we create complex questions by combining test set questions, the test set questions used for creating these questions were very similar to the train set questions.
 
+---
 
 ### REASONING
 
@@ -143,9 +146,14 @@ one function to perform the reasoning test. The results of the reasoning tests a
 
 <img width="722" alt="Screenshot 2024-01-07 at 3 45 03 PM" src="https://github.com/Sanchita-P/DLT-Hallucination-Measurement/assets/34617363/baff1591-8fe1-4f44-ab37-610d3243b312">
 
+
+
+
 <img width="696" alt="Screenshot 2024-01-07 at 3 44 54 PM" src="https://github.com/Sanchita-P/DLT-Hallucination-Measurement/assets/34617363/3ec9f11d-167d-4f35-8c10-867906fe11cc">
 
 **None of the entities, common or specific, pass all four stages of testing.**
+
+
 
 ## Conclusion
 
